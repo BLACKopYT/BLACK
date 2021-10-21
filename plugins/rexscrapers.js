@@ -50,7 +50,7 @@ Trex.addrex({pattern: 'play ?(.*)', fromMe: true, desc: Lang.PLAY_DESC}, (async 
       ━━━━━ •♬• ━━━━━
  ╰──────•◈•──────╯
 ﹏﹏﹏﹏﹏✪✭✪﹏﹏﹏﹏﹏
-   『T Rex Whatsapp Bot』`,MessageType.text);
+   『BLACK Whatsapp Bot』`,MessageType.text);
 
         let title = arama[0].title.replace(' ', '+');
         let stream = ytdl(arama[0].videoId, {
@@ -78,7 +78,7 @@ Trex.addrex({pattern: 'play ?(.*)', fromMe: true, desc: Lang.PLAY_DESC}, (async 
       ━━━━━ •♬• ━━━━━
  ╰──────•◈•──────╯
 ﹏﹏﹏﹏﹏✪✭✪﹏﹏﹏﹏﹏
-   『T Rex Whatsapp Bot』`+'\n' });
+   『BLACK Whatsapp Bot』`+'\n' });
                 await message.client.sendMessage(message.jid,Buffer.from(writer.arrayBuffer), MessageType.document, {filename: title + '.mp3', mimetype: 'audio/mpeg', contextInfo: { forwardingScore: 1, isForwarded: false }});
             });
     }));
@@ -139,7 +139,7 @@ Trex.addrex({pattern: 'play ?(.*)', fromMe: true, desc: Lang.PLAY_DESC}, (async 
       ━━━━━ •♬• ━━━━━
  ╰──────•◈•──────╯
 ﹏﹏﹏﹏﹏✪✭✪﹏﹏﹏﹏﹏
-   『T Rex Whatsapp Bot』`,MessageType.text);
+   『BLACK Whatsapp Bot』`,MessageType.text);
 
         let title = arama[0].title.replace(' ', '+');
         let stream = ytdl(arama[0].videoId, {
@@ -167,7 +167,7 @@ Trex.addrex({pattern: 'play ?(.*)', fromMe: true, desc: Lang.PLAY_DESC}, (async 
       ━━━━━ •♬• ━━━━━
  ╰──────•◈•──────╯
 ﹏﹏﹏﹏﹏✪✭✪﹏﹏﹏﹏﹏
-   『T Rex Whatsapp Bot』`,MessageType.text);
+   『BLACK Whatsapp Bot』`,MessageType.text);
                 await message.client.sendMessage(message.jid,Buffer.from(writer.arrayBuffer), MessageType.document, {filename: title + '.mp3', mimetype: 'audio/mpeg'});
             });
     }));
@@ -242,7 +242,7 @@ Trex.addrex({pattern: 'play ?(.*)', fromMe: true, desc: Lang.PLAY_DESC}, (async 
       if (msg === '200') {
         await message.client.sendMessage(message.jid,Lang.DL_VID,MessageType.text);
         await message.client.sendMessage(message.jid,Lang.UP_VID,MessageType.text);
-        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {caption: "❰🍁🔱  T Rex BOT  🔱🍁❱"}) 
+        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {caption: "❰🍁🔱  BLACK BOT  🔱🍁❱"}) 
         }
           })
           .catch(
@@ -273,7 +273,7 @@ Trex.addrex({pattern: 'play ?(.*)', fromMe: true, desc: Lang.PLAY_DESC}, (async 
       if (msg === '200') {
         await message.client.sendMessage(message.jid,Lang.DL_VID,MessageType.text);
         await message.client.sendMessage(message.jid,Lang.UP_VID,MessageType.text);
-        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {caption: "❰🍁🔱  T Rex BOT  🔱🍁❱"}) 
+        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {caption: "❰🍁🔱  BLACK BOT  🔱🍁❱"}) 
         }
           })
           .catch(
@@ -567,7 +567,7 @@ else if (config.WORKTYPE == 'public') {
       ━━━━━ •♬• ━━━━━
  ╰──────•◈•──────╯
 ﹏﹏﹏﹏﹏✪✭✪﹏﹏﹏﹏﹏
-   『T Rex Whatsapp Bot』`,MessageType.text, {quoted: message.data});
+   『BLACK Whatsapp Bot』`,MessageType.text, {quoted: message.data});
 
         let title = arama[0].title.replace(' ', '+');
         let stream = ytdl(arama[0].videoId, {
@@ -595,7 +595,7 @@ else if (config.WORKTYPE == 'public') {
       ━━━━━ •♬• ━━━━━
  ╰──────•◈•──────╯
 ﹏﹏﹏﹏﹏✪✭✪﹏﹏﹏﹏﹏
-   『T Rex Whatsapp Bot』`+'\n' });
+   『BLACK Whatsapp Bot』`+'\n' });
                 await message.client.sendMessage(message.jid,Buffer.from(writer.arrayBuffer), MessageType.document, {filename: title + '.mp3', mimetype: 'audio/mpeg', contextInfo: { forwardingScore: 1, isForwarded: false }, quoted: message.data});
             });
     }));
@@ -655,7 +655,7 @@ else if (config.WORKTYPE == 'public') {
       ━━━━━ •♬• ━━━━━
  ╰──────•◈•──────╯
 ﹏﹏﹏﹏﹏✪✭✪﹏﹏﹏﹏﹏
-   『T Rex Whatsapp Bot』`,MessageType.text, {quoted: message.data});
+   『BLACK Whatsapp Bot』`,MessageType.text, {quoted: message.data});
   
         let title = arama[0].title.replace(' ', '+');
         let stream = ytdl(arama[0].videoId, {
@@ -683,7 +683,7 @@ else if (config.WORKTYPE == 'public') {
       ━━━━━ •♬• ━━━━━
  ╰──────•◈•──────╯
 ﹏﹏﹏﹏﹏✪✭✪﹏﹏﹏﹏﹏
-   『T Rex Whatsapp Bot』`,MessageType.text, {quoted: message.data});
+   『BLACK Whatsapp Bot』`,MessageType.text, {quoted: message.data});
                 await message.client.sendMessage(message.jid,Buffer.from(writer.arrayBuffer), MessageType.document, {filename: title + '.mp3', mimetype: 'audio/mpeg'});
             });
     }));
@@ -758,7 +758,7 @@ else if (config.WORKTYPE == 'public') {
       if (msg === '200') {
         await message.client.sendMessage(message.jid,Lang.DL_VID,MessageType.text, {quoted: message.data});
         await message.client.sendMessage(message.jid,Lang.UP_VID,MessageType.text, {quoted: message.data});
-        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {quoted: message.data}, {caption: "❰🍁🔱  T Rex BOT  🔱🍁❱"}) 
+        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {quoted: message.data}, {caption: "❰🍁🔱  BLACK BOT  🔱🍁❱"}) 
         }
           })
           .catch(
@@ -789,7 +789,7 @@ else if (config.WORKTYPE == 'public') {
       if (msg === '200') {
         await message.client.sendMessage(message.jid,Lang.DL_VID,MessageType.text, {quoted: message.data});
         await message.client.sendMessage(message.jid,Lang.UP_VID,MessageType.text, {quoted: message.data});
-        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {caption: "❰🍁🔱  T Rex BOT  🔱🍁❱"}) 
+        await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {caption: "❰🍁🔱  BLACK BOT  🔱🍁❱"}) 
         }
           })
           .catch(

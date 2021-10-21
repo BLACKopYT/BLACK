@@ -3,7 +3,7 @@ const Trex = require('../events');
 const {MessageType, MessageOptions, Mimetype} = require('@adiwajshing/baileys');
 const axios = require('axios');
 const Config = require('../config');
-const copy = " ❰🍁🔱  T Rex BOT  🔱🍁❱ "
+const copy = " ❰🍁🔱  BLACK BOT  🔱🍁❱ "
 
 const Language = require('../language');
 const Lang = Language.getString('carbon');

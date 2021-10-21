@@ -1,7 +1,7 @@
-/* DEVELOPER HIRUWA
+/* DEVELOPER BLACK
 Don't copy this i take action for you
 👿👿👿👿👿👿👿
-T-Rex v.1.0 public 👿
+BLACK v.1.0 public 👿
 */
 
 
@@ -15,12 +15,12 @@ if (config.WORKTYPE == 'public') {
   
 if (config.BTN == 'txt') {
 
-Trex.addrex({pattern: 'trex', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
+Trex.addrex({pattern: 'help', fromMe: false, desc: 'it send bot menu'}, (async (message, match) => {
 
     var r_text = new Array ();
     
     
-    r_text[0] = "https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg";
+    r_text[0] = "https://telegra.ph/file/a9828216d4e5e0c9e23bc.png";
     
     
     var i = Math.floor(1*Math.random())
@@ -46,7 +46,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, contextInfo: {mentionedJid: message.mention}, caption: `
  
  ╭────────────────
- │❰🍁🔱  T Rex BOT  🔱🍁❱
+ │❰🍁🔱  BLACK BOT  🔱🍁❱
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
@@ -137,18 +137,6 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │🍁👿 ONLINE STORE 👿🍁
- │
- │▷ .online store
- │ 
- │ 👿 T-REX ONLINE 👿
- │     SHOPPING
- │
- │ ONLY SRI LANKAN 
- │    VISITORS.
- │
- ╰────────────────
- ╭────────────────
  │  🍁👿 For owner 👿🍁
  │
  │▷ .name { change name }
@@ -159,7 +147,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      T-REX BOT
+ │      BLACK BOT
  ╰────────────────
  ╭────────────────
  │    🍁👿 Search 👿🍁
@@ -226,9 +214,9 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
          👿 POWERD BY 👿
-  ❰🍁🔱  T Rex BOT  🔱🍁❱
+  ❰🍁🔱  BLACK BOT  🔱🍁❱
   
-       👿       Hiruwa        👿
+       👿       BLACK        👿
 
  
 `,quoted: message.data}) 
@@ -265,7 +253,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, contextInfo: {mentionedJid: message.mention}, caption: `
  ╭────────────────
- │❰🍁🔱  T Rex BOT  🔱🍁❱
+ │❰🍁🔱  BLACK BOT  🔱🍁❱
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
@@ -356,18 +344,6 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │🍁👿 ONLINE STORE 👿🍁
- │
- │▷ .online store
- │ 
- │ 👿 T-REX ONLINE 👿
- │     SHOPPING
- │
- │ ONLY SRI LANKAN 
- │    VISITORS.
- │
- ╰────────────────
- ╭────────────────
  │  🍁👿 For owner 👿🍁
  │
  │▷ .name { change name }
@@ -378,7 +354,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      T-REX BOT
+ │      BLACK BOT
  ╰────────────────
  ╭────────────────
  │    🍁👿 Search 👿🍁
@@ -445,9 +421,9 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
          👿 POWERD BY 👿
-  ❰🍁🔱  T Rex BOT  🔱🍁❱
+  ❰🍁🔱  BLACK BOT  🔱🍁❱
   
-       👿       Hiruwa        👿
+       👿       BLACK        👿
  
  
 `,quoted: message.data}) 
@@ -467,7 +443,7 @@ else if (config.WORKTYPE == 'private' ) {
     var r_text = new Array ();
     
     
-    r_text[0] = "https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg";
+    r_text[0] = "https://telegra.ph/file/a9828216d4e5e0c9e23bc.png";
     
     
     var i = Math.floor(1*Math.random())
@@ -489,7 +465,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, contextInfo: {mentionedJid: message.mention}, caption: `
  ╭────────────────
- │❰🍁🔱  T Rex BOT  🔱🍁❱
+ │❰🍁🔱  BLACK BOT  🔱🍁❱
  ╰────────────────
  ╭────────────────
  │ Hello ▷ Dear
@@ -580,18 +556,6 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │🍁👿 ONLINE STORE 👿🍁
- │
- │▷ .online store
- │ 
- │ 👿 T-REX ONLINE 👿
- │     SHOPPING
- │
- │ ONLY SRI LANKAN 
- │    VISITORS.
- │
- ╰────────────────
- ╭────────────────
  │  🍁👿 For owner 👿🍁
  │
  │▷ .name { change name }
@@ -602,7 +566,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      T-REX BOT
+ │      BLACK BOT
  ╰────────────────
  ╭────────────────
  │    🍁👿 Search 👿🍁
@@ -669,9 +633,9 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  ╰────────────────
  
          👿 POWERD BY 👿
-  ❰🍁🔱  T Rex BOT  🔱🍁❱
+  ❰🍁🔱  BLACK BOT  🔱🍁❱
   
-       👿       Hiruwa        👿
+       👿       BLACK        👿
  
  
 `,quoted: message.data}) 

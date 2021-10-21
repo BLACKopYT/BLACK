@@ -5,7 +5,7 @@ const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
 
-    Trex.addrex({pattern: 'anime', fromMe: true, desc: 'Send Different type ANIME images . විවිදාකාර ඇනිම් පින්තූර ඔබ වෙත එවයි..'}, (async (message, match) => {
+    Trex.addrex({pattern: 'anime', fromMe: true, desc: 'Send Different type ANIME images .'}, (async (message, match) => {
 
     var r_text = new Array ();
 
@@ -93,13 +93,13 @@ if (Config.WORKTYPE == 'private') {
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '*❰🍁🔱  T Rex BOT  🔱🍁❱*'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '*❰🍁🔱  BLACK BOT  🔱🍁❱*'})
 
     }));
 }
 else if (Config.WORKTYPE == 'public') {
 
-    Trex.addrex({pattern: 'anime', fromMe: false, desc: 'Send Different type ANIME images . විවිදාකාර ඇනිම් පින්තූර ඔබ වෙත එවයි..'}, (async (message, match) => {
+    Trex.addrex({pattern: 'anime', fromMe: false, desc: 'Send Different type ANIME images .'}, (async (message, match) => {
 
     var r_text = new Array ();
 
@@ -187,7 +187,7 @@ else if (Config.WORKTYPE == 'public') {
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '*❰🍁🔱  T Rex BOT  🔱🍁❱*' ,quoted: message.data})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '*❰🍁🔱  BLACK BOT  🔱🍁❱*' ,quoted: message.data})
 
     }));
 }

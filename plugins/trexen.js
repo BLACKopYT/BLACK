@@ -9,7 +9,7 @@ const axios = require('axios');
 const Config = require('../config');
 const alive = fs.readFileSync('./Voice/alive.mp3')
 
-const Ln = "  *TREX MENU* "
+const Ln = "  *BLACK MENU* "
 
 if (Config.LANG == 'EN') {
 
@@ -24,11 +24,11 @@ if (Config.LANG == 'EN') {
 
         if (match[1] === '' ) return await message.sendMessage(ll);
 
-        var ttinullimage = await axios.get(`https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg`, { responseType: 'arraybuffer'})
+        var ttinullimage = await axios.get(`https://telegra.ph/file/a9828216d4e5e0c9e23bc.png`, { responseType: 'arraybuffer'})
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  `╔═══════════════════════╗
 
-           ❰🍁🔱  T Rex BOT  🔱🍁❱
+           ❰🍁🔱  BLACK BOT  🔱🍁❱
 
 ═════════════════════════
 
@@ -176,11 +176,11 @@ Example : .covid Sri Lanka°
 
 *🍁 Command:* °.insta°
 
-*➢ Description:* °🍁➢ ❰🍁🔱  T Rex BOT  🔱🍁❱ Download instagram videos.°
+*➢ Description:* °🍁➢ ❰🍁🔱  BLACK BOT  🔱🍁❱ Download instagram videos.°
 
 *🍁 Command:* °.fb°
 
-*➢ Description:* °🍁➢ ❰🍁🔱  T Rex BOT  🔱🍁❱ Download Facebook videos.°
+*➢ Description:* °🍁➢ ❰🍁🔱  BLACK BOT  🔱🍁❱ Download Facebook videos.°
 
 *🍁 Command:* °.trt°
 
@@ -359,7 +359,7 @@ Trex.addrex({ pattern: 'jsssnssnsnsn', fromMe: true, dontAddCommandList: true },
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: `╔═══════════════════════╗
 
-           ❰🍁🔱  T Rex BOT  🔱🍁❱
+           ❰🍁🔱  BLACK BOT  🔱🍁❱
 
 ═════════════════════════
 
@@ -507,11 +507,11 @@ Example : .covid Sri Lanka°
 
 *🍁 Command:* °.insta°
 
-*➢ Description:* °🍁➢ ❰🍁🔱  T Rex BOT  🔱🍁❱ Download instagram videos.°
+*➢ Description:* °🍁➢ ❰🍁🔱  BLACK BOT  🔱🍁❱ Download instagram videos.°
 
 *🍁 Command:* °.fb°
 
-*➢ Description:* °🍁➢ ❰🍁🔱  T Rex BOT  🔱🍁❱ Download Facebook videos.°
+*➢ Description:* °🍁➢ ❰🍁🔱  BLACK BOT  🔱🍁❱ Download Facebook videos.°
 
 *🍁 Command:* °.trt°
 

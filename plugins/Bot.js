@@ -13,9 +13,9 @@ if (Config.WORKTYPE == 'private') {
 
     Trex.addrex({pattern: 'bot', fromMe: true,  deleteCommand: false }, (async (message, match) => {
             
-            var image = await axios.get ('https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg', {responseType: 'arraybuffer'})
+            var image = await axios.get ('https://telegra.ph/file/a9828216d4e5e0c9e23bc.png', {responseType: 'arraybuffer'})
        
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╹🔥 *𝚂𝚁𝙸 𝙻𝙰𝙽𝙺𝙰 𝙱𝙴𝚂𝚃 𝚆.𝙰 𝙱𝙾𝚃* 🔥╹ 
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╹🔥 *KERALA 𝙱𝙴𝚂𝚃 𝚆.𝙰 𝙱𝙾𝚃* 🔥╹ 
 
 ⋱ ⋮ ⋰
 ⋯ ◯ ⋯ ︵ 　　　　　　^v^
@@ -29,11 +29,11 @@ if (Config.WORKTYPE == 'private') {
 ♪♫•*¨*•.¸¸❤¸¸.•*¨*•♫♪
 
 
-🍁 *Developer - Hirusha Rushan ( Hiruwa )*
+🍁 *Developer - BLACK_FX ( BLACK )*
 
 🍁 *Language - NODE JS*
 
-🍁 *Sponser Team - PEARL Team*
+🍁 *YOUTUBE - https://www.youtube.com/channel/UCQm6osUZUCjMOH-njaVbFnQ/videos*
 
 ‎╮╰╮╮▕╲╰╮╭╯╱▏╭╭╭╭
 ╰╰╮╰╭╱▔▔▔▔╲╮╯╭╯
@@ -43,21 +43,6 @@ if (Config.WORKTYPE == 'private') {
 ╰┳┫▔╲╰┳━━┳╯╱▔┊   ║
 ┈┃╰━━╲▕╲╱▏╱━━━┬╨╮
 ┈╰━━╮┊▕╱╲▏┊╭━━┴╥╯
-
-       💢 *𝘚𝘗𝘌𝘊𝘐𝘈𝘓 𝘛𝘏𝘈𝘕𝘒𝘚* 💢
-
-🍒 *Kasun Ravihara* 🍒
-➻ *ʙᴏᴛ ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢʜɴᴇʀ*
-
-🍒 *Black Amda* 
-➻ *ʙᴏᴛ ʙᴀꜱᴇ ᴏᴡɴᴇʀ* 
-
-🍒 *Achiya* 🍒
-➻ *ʙᴏᴛ ᴛᴇꜱᴛ ʜᴇʟᴘᴇᴇʀ*
-
-🍒 *Seneth Indeepa*
-➻ *ʙᴏᴛ ᴛʀᴀɪʟᴇʀ ɪɴᴛʀᴏ ᴍᴀᴋᴇʀ*
-
  .       
          🍒 *𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴* 🍒
          🍒 *𝙻𝙸𝙺𝙴 𝚄𝚂* 🍒
@@ -79,18 +64,13 @@ if (Config.WORKTYPE == 'private') {
 ╬♥═╬
            
  
- 🍁 *𝚃𝙴𝚇𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝚁 - ᴛʜᴀɴᴜᴊ* 🍁
+ 🍁 *𝚃𝙴𝚇𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝚁 - BLACK* 🍁
   
   
   
   
-           🍒 *ᴀᴅᴍɪɴꜱ* ™🍒
 
-╹ 🔰 *Kasun Ravihara* ╹
-╹ 🔰 *Acintha Fernando*╹
-╹ 🔰 *Thanuj Fernando*    ╹
-
- ♥ *ʏᴛ ʟɪɴᴋ - https://youtu.be/oaSPHc78LNQ*
+ ♥ *ʏᴛ ʟɪɴᴋ - https://www.youtube.com/channel/UCQm6osUZUCjMOH-njaVbFnQ/videos*
 
 
     👊 *ᴅᴇᴘʟᴏʏ ɴᴏᴡ | ǫʀ ɴᴏᴡ* 👊
@@ -106,12 +86,12 @@ else if (Config.WORKTYPE == 'public') {
     Trex.addrex({pattern: 'bot', fromMe: true,  deleteCommand: false }, (async (message, match) => {
 
           
-            var image = await axios.get ('https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg', {responseType: 'arraybuffer'})
+            var image = await axios.get ('https://telegra.ph/file/a9828216d4e5e0c9e23bc.png', {responseType: 'arraybuffer'})
         await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╹🔥 *𝚂𝚁𝙸 𝙻𝙰𝙽𝙺𝙰 𝙱𝙴𝚂𝚃 𝚆.𝙰 𝙱𝙾𝚃* 🔥╹ 
 
 ⋱ ⋮ ⋰
 ⋯ ◯ ⋯ ︵ 　　　　　　^v^
-¸︵︵( ░░ )︵.︵.︵
+ ︵︵( ░░ )︵.︵.︵
 (°░░░░░░ °) ░░░° )
 °°︶°¯°︶°°︶°︶°°　^v^　　^v^
 ╔┓┏╦━━╦┓╔┓╔━━╗╔╗
@@ -121,11 +101,11 @@ else if (Config.WORKTYPE == 'public') {
 ♪♫•*¨*•.¸¸❤¸¸.•*¨*•♫♪
 
 
-🍁 *Developer - Hirusha Rushan ( Hiruwa )*
+🍁 *Developer - BLACK_FX ( BLACK )*
 
 🍁 *Language - NODE JS*
 
-🍁 *Sponser Team - PEARL Team*
+🍁 *YOUTUBE - https://www.youtube.com/channel/UCQm6osUZUCjMOH-njaVbFnQ/videos*
 
 ‎╮╰╮╮▕╲╰╮╭╯╱▏╭╭╭╭
 ╰╰╮╰╭╱▔▔▔▔╲╮╯╭╯
@@ -135,26 +115,11 @@ else if (Config.WORKTYPE == 'public') {
 ╰┳┫▔╲╰┳━━┳╯╱▔┊   ║
 ┈┃╰━━╲▕╲╱▏╱━━━┬╨╮
 ┈╰━━╮┊▕╱╲▏┊╭━━┴╥╯
-
-       💢 *𝘚𝘗𝘌𝘊𝘐𝘈𝘓 𝘛𝘏𝘈𝘕𝘒𝘚* 💢
-
-🍒 *Kasun Ravihara* 🍒
-➻ *ʙᴏᴛ ɢʀᴀᴘʜɪᴄ ᴅᴇꜱɪɢʜɴᴇʀ*
-
-🍒 *Black Amda* 
-➻ *ʙᴏᴛ ʙᴀꜱᴇ ᴏᴡɴᴇʀ* 
-
-🍒 *Achiya* 🍒
-➻ *ʙᴏᴛ ᴛᴇꜱᴛ ʜᴇʟᴘᴇᴇʀ*
-
-🍒 *Seneth Indeepa*
-➻ *ʙᴏᴛ ᴛʀᴀɪʟᴇʀ ɪɴᴛʀᴏ ᴍᴀᴋᴇʀ*
-
  .       
          🍒 *𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴* 🍒
          🍒 *𝙻𝙸𝙺𝙴 𝚄𝚂* 🍒
-         🍒 *𝙲𝙾𝙼𝙼𝙴𝙽𝚃 𝚄𝚂* 🍒           
-         
+         🍒 *𝙲𝙾𝙼𝙼𝙴𝙽𝚃 𝚄𝚂* 🍒
+            
  (¯v¯)　　
   . . 
 ☻/
@@ -171,24 +136,20 @@ else if (Config.WORKTYPE == 'public') {
 ╬♥═╬
            
  
- 🍁 *𝚃𝙴𝚇𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝚁 - ᴛʜᴀɴᴜᴊ* 🍁
- 
- 
- 
-           🍒 *ᴀᴅᴍɪɴꜱ* ™🍒
+ 🍁 *𝚃𝙴𝚇𝚃 𝙲𝚁𝙴𝙰𝚃𝙴𝚁 - BLACK* 🍁
+  
+  
+  
+  
 
-╹ 🔰 *Kasun Ravihara* ╹
-╹ 🔰 *Acintha Fernando*╹
-╹ 🔰 *Thanuj Fernando*    ╹
-
- ♥ *ʏᴛ ʟɪɴᴋ - https://youtu.be/oaSPHc78LNQ*
+ ♥ *ʏᴛ ʟɪɴᴋ - https://www.youtube.com/channel/UCQm6osUZUCjMOH-njaVbFnQ/videos*
 
 
     👊 *ᴅᴇᴘʟᴏʏ ɴᴏᴡ | ǫʀ ɴᴏᴡ* 👊
 
 
 
-   🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰` })
+   🔰 *ꜰᴏʀ 24/7 ʜᴇʟᴘ ᴍꜱɢ ᴍᴇ* 🔰`})
 
     }));
   
@@ -196,7 +157,7 @@ else if (Config.WORKTYPE == 'public') {
 
           
             var image = await axios.get ('https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg', {responseType: 'arraybuffer'})
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╹🔥 *𝚂𝚁𝙸 𝙻𝙰𝙽𝙺𝙰 𝙱𝙴𝚂𝚃 𝚆.𝙰 𝙱𝙾𝚃* 🔥╹ 
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: `╹🔥 *KERALA 𝙱𝙴𝚂𝚃 𝚆.𝙰 𝙱𝙾𝚃* 🔥╹ 
 
 ⋱ ⋮ ⋰
 ⋯ ◯ ⋯ ︵ 　　　　　　^v^

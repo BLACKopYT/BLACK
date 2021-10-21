@@ -23,7 +23,7 @@ const Down = '👿 DOWNLOADING STATUS 👿.'
             ffmpeg(location)
                 .save('stat.png')
                 .on('end', async () => {
-                    await message.client.sendMessage(message.client.user.jid,fs.readFileSync('stat.png'), MessageType.image,{mimetype: Mimetype.png, caption: '❰🍁🔱  T Rex BOT  🔱🍁❱' ,quoted: message.data});
+                    await message.client.sendMessage(message.client.user.jid,fs.readFileSync('stat.png'), MessageType.image,{mimetype: Mimetype.png, caption: '❰🍁🔱  BLACK BOT  🔱🍁❱' ,quoted: message.data});
             });
         return 
         }
@@ -31,7 +31,7 @@ const Down = '👿 DOWNLOADING STATUS 👿.'
         ffmpeg(location)
             .save('statu.mp4')
             .on('end', async () => {
-                await message.client.sendMessage(message.client.user.jid,fs.readFileSync('statu.mp4'), MessageType.video,{mimetype: Mimetype.mp4, caption: '❰🍁🔱  T Rex BOT  🔱🍁❱' ,quoted: message.data});
+                await message.client.sendMessage(message.client.user.jid,fs.readFileSync('statu.mp4'), MessageType.video,{mimetype: Mimetype.mp4, caption: '❰🍁🔱  BLACK BOT  🔱🍁❱' ,quoted: message.data});
             });
         return 
     }));

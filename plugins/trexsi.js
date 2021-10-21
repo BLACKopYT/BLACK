@@ -3,7 +3,7 @@ const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys'
 const fs = require('fs');
 const axios = require('axios');
 const Config = require('../config');
-const Ln = "  *TREX MENU* "
+const Ln = "  *BLACK MENU* "
 const alive = fs.readFileSync('./Voice/alive.mp3')
 
 if (Config.LANG == 'SI') {
@@ -20,12 +20,12 @@ if (Config.LANG == 'SI') {
 
         if (match[1] === '' ) return await message.sendMessage(ll);
 
-        var ttinullimage = await axios.get(`https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg`, { responseType: 'arraybuffer' })
+        var ttinullimage = await axios.get(`https://telegra.ph/file/a9828216d4e5e0c9e23bc.png`, { responseType: 'arraybuffer' })
         
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  `╔═══════════════════════╗
 
-         °❰🍁🔱  T Rex BOT  🔱🍁❱°
+         °❰🍁🔱  BLACK BOT  🔱🍁❱°
 
 ═════════════════════════
 
@@ -354,7 +354,7 @@ else if (Config.WORKTYPE == 'private') {
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: `╔═══════════════════════╗
 
-         °❰🍁🔱  T Rex BOT  🔱🍁❱°
+         °❰🍁🔱  BLACK BOT  🔱🍁❱°
 
 ═════════════════════════
 
