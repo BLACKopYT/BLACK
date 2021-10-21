@@ -2,7 +2,7 @@
 /* Copyright (C) 2021 BLACK
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-BLACK - BLACK
+BLACK
 උස්සන්නද ආවෙ අම්මට හුකෝගන්නෙ නැතුව පල පොන්නයා 😂👿
 */
 
@@ -19,7 +19,7 @@ const Lang = Language.getString('_trex');
 
 if (Config.WORKTYPE == 'public') {
 
-trex.addrex({on: 'text', fromMe: false,  deleteCommand: false}, (async (message, match) => {    
+Trex.addrex({on: 'text', fromMe: false,  deleteCommand: false}, (async (message, match) => {    
   
   let menu = new RegExp('MENU')
   
@@ -213,7 +213,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
          👿 POWERD BY 👿
   ❰🍁🔱  BLACK BOT  🔱🍁❱
   
-       👿       BLACK        👿
+       👿       Hiruwa        👿
 ` , rowId:"rowid1"},
         {title: '👿 ADVANCE MENU 👿', description:`▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
@@ -312,7 +312,7 @@ Example : .covid Sri Lanka°
 ⌨️ Example: .github TRex°
 *🍁 Command:* °.tk°
 *➢ Description:* °Stalk tiktok profile to a given username.
-⌨️ Example: .tK BLACK66°
+⌨️ Example: .tK hiruwa66°
 *🍁 Command:* °.ss°
 *➢ Description:* °Take screenshot of given links°
 *🍁 Command:* °.mod°
@@ -770,12 +770,12 @@ Example : .covid Sri Lanka°
  ╰────────────────
 `, rowId:"rowid9"},
         {title: '👿 ABOUT BLACK BOT 👿', description:`▷▷▷▷▷▷\n\n\n
-🍁 Developer : BLACK
+🍁 Developer : Hiruwa
 🍁 Bot             : BLACK V 3.0.0 
 🍁 Language : Sinhala & English
 🍁 Sponcer Team : PEARL TEAM
 🍁 Develop language : Node js
-🍁 Developer no : wa.me/+94788306130
+🍁 Developer no : wa.me/+918078186254
 `, rowId:"rowid2"}
        ]
        
@@ -797,7 +797,7 @@ Example : .covid Sri Lanka°
   }
 else if (Config.WORKTYPE == 'private') {
   
-  trex.addrex({on: 'text', fromMe: true,  deleteCommand: false}, (async (message, match) => {    
+  Trex.addrex({on: 'text', fromMe: true,  deleteCommand: false}, (async (message, match) => {    
   
   let menu = new RegExp('MENU')
   
@@ -912,18 +912,6 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  ╰────────────────
  ╭────────────────
- │🍁👿 ONLINE STORE 👿🍁
- │
- │▷ .online store
- │ 
- │ 👿 BLACK ONLINE 👿
- │     SHOPPING
- │
- │ ONLY SRI LANKAN 
- │    VISITORS.
- │
- ╰────────────────
- ╭────────────────
  │  🍁👿 For owner 👿🍁
  │
  │▷ .name { change name }
@@ -1003,7 +991,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
          👿 POWERD BY 👿
   ❰🍁🔱  BLACK BOT  🔱🍁❱
   
-       👿       BLACK        👿
+       👿       Hiruwa        👿
 ` , rowId:"rowid1"},
         {title: '👿 ADVANCE MENU 👿', description:`▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
@@ -1013,7 +1001,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 *➢ Description:* °A plugin that have 25 media tools.°
 *🍁 Command:* °.admin°
 *➢ Description:* °To get the admin command list°
-*🍁 Command:* °.BLACK°
+*🍁 Command:* °.trex°
 *➢ Description:*°all commands°
 *🍁 Command* °.rlpack°
 *➢ Description:* °BLACK LOGO COLLECTION 01°
@@ -1099,10 +1087,10 @@ Example : .covid Sri Lanka°
 *➢ Description:* °Get a link to the user chat.°
 *🍁 Command:* °.github°
 *➢ Description:* °Stalk github profiles of given username.
-⌨️ Example: .github BLACK°
+⌨️ Example: .github TRex°
 *🍁 Command:* °.tk°
 *➢ Description:* °Stalk tiktok profile to a given username.
-⌨️ Example: .tK BLACK66°
+⌨️ Example: .tK hiruwa66°
 *🍁 Command:* °.ss°
 *➢ Description:* °Take screenshot of given links°
 *🍁 Command:* °.mod°
@@ -1560,12 +1548,12 @@ Example : .covid Sri Lanka°
  ╰────────────────
 `, rowId:"rowid9"},
         {title: '👿 ABOUT BLACK BOT 👿', description:`▷▷▷▷▷▷\n\n\n
-🍁 Developer : BLACK
+🍁 Developer : Hiruwa
 🍁 Bot             : BLACK V 3.0.0 
 🍁 Language : Sinhala & English
 🍁 Sponcer Team : PEARL TEAM
 🍁 Develop language : Node js
-🍁 Developer no : wa.me/+94788306130
+🍁 Developer no : wa.me/+918078186254
 `, rowId:"rowid2"}
        ]
        
