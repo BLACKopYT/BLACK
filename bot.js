@@ -1,7 +1,7 @@
-/* Copyright (C) 2021 T-REX
+/* Copyright (C) 2021 BLACK
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-T-REX HIRUWA
+BLACK
 */
 
 const fs = require("fs");
@@ -136,13 +136,13 @@ ${chalk.blue.italic('👿 Connecting to WhatsApp...▶')}`);
        );
         
          if (config.LANG == 'EN') {
-             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: `🍁▷ Hey..!!  ${conn.user.name}! \n\n*👿 Welcome To BLACK_FX :│🍁*\n\n\n Your Bot Working  As ${config.WORKTYPE} 👿.\n\n*👿│BLACK_FX WORKING Your Account*\n\n*🍁▷ Use the 🚀.trex command to get bot menu...*\n\n\n*👿 T-REX is a powerfull WhatsApp robot developed by BLACK.*\n\n*🚀 This is your LOG number. Avoid using the command here.\n\n👿 .new Command use for new items*\n\n`});
+             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: `🍁▷ Hey..!!  ${conn.user.name}! \n\n*👿 Welcome To BLACK_FX :│🍁*\n\n\n Your Bot Working  As ${config.WORKTYPE} 👿.\n\n*👿│BLACK_FX WORKING Your Account*\n\n*🍁▷ Use the 🚀.help command to get bot menu...*\n\n\n*👿 BLACK is a powerfull WhatsApp robot developed by BLACK.*\n\n*🚀 This is your LOG number. Avoid using the command here.\n\n👿 .new Command use for new items*\n\n`});
              
          } else if (config.LANG == 'SI') {
-             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: `🍁🚀Hey..!!  ${conn.user.name}! \n\n*👿 සාදරයෙන් BLACK_FX වෙත පිලිගන්නවා :│🍁*\n\n\n ඔබේ Bot ${config.WORKTYPE} ලෙස ක්‍රියාකරයි.\n\n*👿│BLACK_FX ඔබගේ ගිණුමේ දැන් සක්‍රියයි*\n\n*🍁 BLACK BOT සම්පූර්න මෙනුව ලබා ගැනීමට 👿.trex විධානය භාවිතා කරන්න...*\n\n\n*👿 BLACK_FX යනූ සීඝ්‍රයෙන් වර්ධනය වන Whatsapp රොබෝවෙකි..BLACK_FX වෙත ලැබෙන නව අංග හා යතාවත්කාලින කිරිම් ලබා ගැනීමට🍁 .new විධානය භාවිතා කරන්න..*\n\n*😈 මෙය ඔබගේ LOG අංකයයි.මෙහි විධාන භාවිතයෙන් වළකින්න.*\n\n`});
+             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: `🍁🚀Hey..!!  ${conn.user.name}! \n\n*👿 සාදරයෙන් BLACK_FX වෙත පිලිගන්නවා :│🍁*\n\n\n ඔබේ Bot ${config.WORKTYPE} ලෙස ක්‍රියාකරයි.\n\n*👿│BLACK_FX ඔබගේ ගිණුමේ දැන් සක්‍රියයි*\n\n*🍁 BLACK BOT සම්පූර්න මෙනුව ලබා ගැනීමට 👿.help විධානය භාවිතා කරන්න...*\n\n\n*👿 BLACK_FX යනූ සීඝ්‍රයෙන් වර්ධනය වන Whatsapp රොබෝවෙකි..BLACK_FX වෙත ලැබෙන නව අංග හා යතාවත්කාලින කිරිම් ලබා ගැනීමට🍁 .new විධානය භාවිතා කරන්න..*\n\n*😈 මෙය ඔබගේ LOG අංකයයි.මෙහි විධාන භාවිතයෙන් වළකින්න.*\n\n`});
              
          } else {
-             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: `🍁🚀Hey..!!  ${conn.user.name}! \\nn*👿 Welcome To BLACK_FX :│🍁*\n\n\n Your Bot Working  As ${config.WORKTYPE} 👿.\n\n*👿 │BLACK_FX WORKING Your Account*\n\n*🍁▷ Use the 🚀.trex command to get bot menu...*\n\n\n*👿 BLACK_FX is a powerfull WhatsApp robot developed by Hiruwa.*\n\n*🚀 This is your LOG number. Avoid using the command here.\n\n👿 .new Command use for new items*\n\n`});
+             await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/IMG-20210910-WA0097.png"), MessageType.image, { caption: `🍁🚀Hey..!!  ${conn.user.name}! \\nn*👿 Welcome To BLACK_FX :│🍁*\n\n\n Your Bot Working  As ${config.WORKTYPE} 👿.\n\n*👿 │BLACK_FX WORKING Your Account*\n\n*🍁▷ Use the 🚀.help command to get bot menu...*\n\n\n*👿 BLACK_FX is a powerfull WhatsApp robot developed by Hiruwa.*\n\n*🚀 This is your LOG number. Avoid using the command here.\n\n👿 .new Command use for new items*\n\n`});
         }
      });
     

@@ -5,13 +5,13 @@ T-REX HIRUWA
 */
 
 function successfullMessage(msg) {
-    return "😈 T-REX*:  ```" + msg + "```"
+    return "😈 BLACK*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "😈 T-REX*:  ```" + msg + "```"
+    return "😈 BLACK*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "😈 T-REX*:  ```" + msg + "```"
+    return "😈 BLACK*:  ```" + msg + "```"
 }
 
 
