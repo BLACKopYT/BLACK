@@ -17,7 +17,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
     return sonuc.includes(true);
 }
 
-const ADD = '94757405652,94716292396'
+const ADD = '918078186254'
 
 var kickmsg = ''
 if (Config.LANG == 'SI') kickmsg = '_❌ නරක වචන bot අයිතිකරු විසින් තහනම් කර ඇත.*_\n\n ❰🍁🔱  BLACK BOT  🔱🍁❱  '

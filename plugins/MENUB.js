@@ -59,7 +59,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │       🍁👿 BOT 👿🍁
  │        ──────────
  │
- │▷ .trex
+ │▷ .help
  │▷ .alive
  │▷ .atrex [ advance menu ]
  │▷ .admin [ for owner ]
@@ -223,7 +223,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 *➢ Description:* °A plugin that have 25 media tools.°
 *🍁 Command:* °.admin°
 *➢ Description:* °To get the admin command list°
-*🍁 Command:* °.trex°
+*🍁 Command:* °.help°
 *➢ Description:*°all commands°
 *🍁 Command* °.rlpack°
 *➢ Description:* °BLACK LOGO COLLECTION 01°
@@ -837,7 +837,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │       🍁👿 BOT 👿🍁
  │        ──────────
  │
- │▷ .trex
+ │▷ .help
  │▷ .alive
  │▷ .atrex [ advance menu ]
  │▷ .admin [ for owner ]
@@ -1001,7 +1001,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 *➢ Description:* °A plugin that have 25 media tools.°
 *🍁 Command:* °.admin°
 *➢ Description:* °To get the admin command list°
-*🍁 Command:* °.trex°
+*🍁 Command:* °.help°
 *➢ Description:*°all commands°
 *🍁 Command* °.rlpack°
 *➢ Description:* °BLACK LOGO COLLECTION 01°

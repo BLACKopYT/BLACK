@@ -17,61 +17,57 @@ if (Config.WORKTYPE == 'public') {
 │
 │   SELECT YOUR TYPE
 │
-│▷ .ladies
-│─▷ For girl cloths
+│▷ INTRO
+│─▷ DEMOS - https://www.youtube.com/channel/UCQm6osUZUCjMOH-njaVbFnQ/videos
 │
-│▷ .mens
-│─▷ For mens cloths
-│
-│    ONLY SRI LANKA 
-│        BUYERS
+│   CONTACT - +918078186254
 │
 │     🍁POWERD BY🍁
-│      👿 T-REX 👿
+│      👿 BLACK 👿
 ╰──────────────`,quoted: message.data})
 
     }));
   
 
-    Trex.addrex({pattern: 'ladies', fromMe: false,  deleteCommand: true }, (async (message, match) => {
+    Trex.addrex({pattern: 'INTRO', fromMe: false,  deleteCommand: true }, (async (message, match) => {
 
           
-            var image = await axios.get ('https://telegra.ph/file/873e00ec90306f5180f19.jpg', {responseType: 'arraybuffer'})
+            var image = await axios.get ('https://telegra.ph/file/a9828216d4e5e0c9e23bc.png', {responseType: 'arraybuffer'})
             
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: '\n🍁 RS.1000.00\n\n🍁 Dilivary available \n🍁Charge RS.300.00\n\n🍁 More details call 0775849690\n\n 👿 POWERD BY T REX 👿',quoted: message.data})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: '\n🍁\n\n🍁\n🍁\n\n🍁 More details call +918078186254\n\n 👿 POWERD BLACK 👿',quoted: message.data})
         
         
 
     }));
     
-  Trex.addrex({pattern: 'ladies', fromMe: false,  deleteCommand: true }, (async (message, match) => {
+  Trex.addrex({pattern: 'INTRO', fromMe: false,  deleteCommand: true }, (async (message, match) => {
 
           
-            var image = await axios.get ('https://telegra.ph/file/60cd76df9eeab865aeb50.jpg', {responseType: 'arraybuffer'})
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: '\n🍁 RS.1000.00\n\n🍁 Dilivary available \n🍁Charge RS.300.00\n\n🍁 More details call 0775849690\n\n 👿 POWERD BY T REX 👿',quoted: message.data})
+            var image = await axios.get ('https://telegra.ph/file/a9828216d4e5e0c9e23bc.png', {responseType: 'arraybuffer'})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: '\n🍁\n\n🍁\n🍁\n\n🍁 More details call +918078186254\n\n 👿 POWERD BLACK 👿',quoted: message.data})
 
   }));
     
-  Trex.addrex({pattern: 'ladies', fromMe: false,  deleteCommand: true }, (async (message, match) => {
+  Trex.addrex({pattern: 'INTRO', fromMe: false,  deleteCommand: true }, (async (message, match) => {
 
           
-            var image = await axios.get ('https://telegra.ph/file/7639b67f052f3d4b34236.jpg', {responseType: 'arraybuffer'})
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: '\n🍁 RS.1000.00\n\n🍁 Dilivary available \n🍁Charge RS.300.00\n\n🍁 More details call 0775849690\n\n 👿 POWERD BY T REX 👿',quoted: message.data})
+            var image = await axios.get ('https://telegra.ph/file/a9828216d4e5e0c9e23bc.png', {responseType: 'arraybuffer'})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: '\n🍁\n\n🍁\n🍁\n\n🍁 More details call +918078186254\n\n 👿 POWERD BLACK 👿',quoted: message.data})
 
     }));
   
-  Trex.addrex({pattern: 'ladies', fromMe: false,  deleteCommand: true }, (async (message, match) => {
+  Trex.addrex({pattern: 'INTRO', fromMe: false,  deleteCommand: true }, (async (message, match) => {
 
           
-            var image = await axios.get ('https://telegra.ph/file/db29720b4ac93686826c0.jpg', {responseType: 'arraybuffer'})
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: '\n🍁 RS.1000.00\n\n🍁 Dilivary available \n🍁Charge RS.300.00\n\n🍁 More details call 0775849690\n\n 👿 POWERD BY T REX 👿',quoted: message.data})
+            var image = await axios.get ('https://telegra.ph/file/a9828216d4e5e0c9e23bc.png', {responseType: 'arraybuffer'})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: '\n🍁\n\n🍁\n🍁\n\n🍁 More details call +918078186254\n\n 👿 POWERD BLACK 👿',quoted: message.data})
 
     }));
-    Trex.addrex({pattern: 'ladies', fromMe: false,  deleteCommand: true }, (async (message, match) => {
+    Trex.addrex({pattern: 'INTRO', fromMe: false,  deleteCommand: true }, (async (message, match) => {
 
           
-            var image = await axios.get ('https://telegra.ph/file/2b5b8437d28720d6f2d79.jpg', {responseType: 'arraybuffer'})
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: '\n🍁 RS.1000.00\n\n🍁 Dilivary available \n🍁Charge RS.300.00\n\n🍁 More details call 0775849690\n\n 👿 POWERD BY T REX 👿',quoted: message.data})
+            var image = await axios.get ('https://telegra.ph/file/a9828216d4e5e0c9e23bc.png', {responseType: 'arraybuffer'})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: '\n🍁\n\n🍁\n🍁\n\n🍁 More details call +918078186254\n\n 👿 POWERD BLACK 👿',quoted: message.data})
 
     }));
   
@@ -80,8 +76,8 @@ if (Config.WORKTYPE == 'public') {
   Trex.addrex({pattern: 'mens', fromMe: false,  deleteCommand: true }, (async (message, match) => {
 
           
-            var image = await axios.get ('https://telegra.ph/file/b260087f89c4f5cfd5bdd.jpg', {responseType: 'arraybuffer'})
-        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: '\n🍁 RS.1000.00\n\n🍁 Dilivary available \n🍁Charge RS.300.00\n\n🍁 More details call 0775849690\n\n 👿 POWERD BY T REX 👿',quoted: message.data})
+            var image = await axios.get ('https://telegra.ph/file/a9828216d4e5e0c9e23bc.png', {responseType: 'arraybuffer'})
+        await message.client.sendMessage (message.jid, Buffer.from (image.data), MessageType.image, {mimetype: Mimetype.png, caption: '\n🍁\n\n🍁\n🍁\n\n🍁 More details call +918078186254\n\n 👿 POWERD BLACK 👿',quoted: message.data})
 
     }));
  

@@ -92,7 +92,7 @@ To turn on AI chat, *.switch CHAT_BOT:false*
 
 *🍁 Command:* °.anime°
 
-*➢ Description:* °Send Different type ANIME images . විවිදාකාර ඇනිම් පින්තූර ඔබ වෙත එවයි..°
+*➢ Description:* °Send Different type ANIME images .°
 
 *🍁 Command:* °.antispam°
 
@@ -645,7 +645,7 @@ Example : .covid Sri Lanka°
 
 *🍁 Command:* °.vid2°
 
-*➢ Description:* °Youtube Video Downloader V2 . යූ ටියුබ් වීඩියෝ ඩව්න්ලෝඩ් කිරීමට දෙවන මග... .°
+*➢ Description:* °Youtube Video Downloader V2 .°
 
 *🍁 Command:* °.weather°
 
@@ -663,9 +663,6 @@ Example : .covid Sri Lanka°
 
 *➢ Description:* °Shorten link.°
 
-*🍁 Command:* °.xxx°
-
-*➢ Description:* °xnxx අඩවියේ සෙක්ස් වීඩියෝ බාගත කරයි අව්නර් සදහා පමණයි..Download sex videos on xnxx site°
 ` })
 
     

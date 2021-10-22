@@ -62,7 +62,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │       🍁👿 BOT 👿🍁
  │        ──────────
  │
- │▷ .trex
+ │▷ .help
  │▷ .alive
  │▷ .atrex [ advance menu ]
  │▷ .admin [ for owner ]
@@ -223,12 +223,12 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
 }));
 
-Trex.addrex({pattern: 'trex', fromMe: true, desc: 'it send bot menu'}, (async (message, match) => {
+Trex.addrex({pattern: 'help', fromMe: true, desc: 'it send bot menu'}, (async (message, match) => {
 
     var r_text = new Array ();
     
     
-    r_text[0] = "https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg";
+    r_text[0] = "https://telegra.ph/file/a9828216d4e5e0c9e23bc.png";
     
     
     var i = Math.floor(1*Math.random())
@@ -269,9 +269,8 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │       🍁👿 BOT 👿🍁
  │        ──────────
  │
- │▷ .trex
+ │▷ .help
  │▷ .alive
- │▷ .atrex [ advance menu ]
  │▷ .admin [ for owner ]
  │▷ .version
  │

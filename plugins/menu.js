@@ -1,7 +1,7 @@
 /* Copyright (C) 2021 BLACK
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-BLACK - TREX
+BLACK
 උස්සන්නද ආවෙ අම්මට හුකෝගන්නෙ නැතුව පල පොන්නයා 😂👿
 */
 
@@ -918,17 +918,16 @@ Example : .covid Sri Lanka°
 🍁 Developer : BLACK
 🍁 Bot             : T-REX V 3.0.0 
 🍁 Language : Sinhala & English
-🍁 Sponcer Team : PEARL TEAM
 🍁 Develop language : Node js
-🍁 Developer no : wa.me/+94788306130
+🍁 Developer no : wa.me/+918078186254
 `, rowId:"rowid2"}
        ]
        
-       const sections = [{title: "👿 T-REX Command Panel 👿", rows: rows}]
+       const sections = [{title: "👿 BLACK Command Panel 👿", rows: rows}]
        
        const button = {
         buttonText: 'Click Me▷',
-        description: "👿 T-REX ALL COMMAND 👿",
+        description: "👿 BLACK ALL COMMAND 👿",
         sections: sections,
         listType: 1
        }
@@ -1847,9 +1846,8 @@ Example : .covid Sri Lanka°
 🍁 Developer : BLACK
 🍁 Bot             : T-REX V 3.0.0 
 🍁 Language : Sinhala & English
-🍁 Sponcer Team : PEARL TEAM
 🍁 Develop language : Node js
-🍁 Developer no : wa.me/+94788306130
+🍁 Developer no : wa.me/+918078186254
 `, rowId:"rowid9"},
         {title: '👿 ADMIN PANEL 👿', description: `▷▷▷▷▷▷\n\n\n
 ❰🍁🔱  BLACK BOT  🔱🍁❱\n\n🍁 COMMAND: *.ban*\nℹ️ DESCRIPTION: Remove someone from the group. Mention the message or tag a person to use command.\n\n🍁 COMMAND: *.add*\nℹ️ DESCRIPTION: Adds someone to the group.\n\n🍁 COMMAND: *.mute*\nℹ️ DESCRIPTION: Mute group chat. Messages can only be sent by admin. \n\n🍁 COMMAND: *.unmute*\nℹ️ DESCRIPTION: Remove group chat mute. Anyone can send a message.\n\n🍁 COMMAND: *.clear*\nℹ️ DESCRIPTION: Clearing chat.\n\n🍁 COMMAND: *.name*\nℹ️ DESCRIPTION: Change group name. \n\n🍁 COMMAND: *.promote*\nℹ️ DESCRIPTION: Promoting members to admin.\n\n🍁 COMMAND: *.demote*\nℹ️ DESCRIPTION: Demoting admins.\n\n🍁 COMMAND: *.myplugin*\nℹ️ DESCRIPTION: To view the current plugin list from ❰🍁🔱  BLACK BOT  🔱🍁❱.\n\n🍁 COMMAND: *.plug*\nℹ️ DESCRIPTION: Install external plugins.\n\n🍁 COMMAND: *.unplug*\nℹ️ DESCRIPTION: Removes the plugin.\n\n🍁 COMMAND: *.invite*\nℹ️ DESCRIPTION: Provides group invitation link.\n\n🍁 COMMAND: *.afk*\nℹ️ DESCRIPTION: It turns bot bot AFK - Away From Keyboard.\n\n🍁 COMMAND: *.restart*\n➢ DESCRIPTION: Restart the bot.\n\n🍁 COMMAND: *.shutdown*\n➢ DESCRIPTION: Shutdown the Bot.\n\n🍁 COMMAND: *.setvar*\n➢ DESCRIPTION: Change heroku config vars.\n\n🍁 COMMAND: *.getvar*\n➢ DESCRIPTION: Get heroku config var.\n\n🍁 COMMAND: *.speedtest*\n➢ DESCRIPTION:Check download and upload speed.\n\n🍁 COMMAND: *.filter*\nℹ️ DESCRIPTION: It adds filters. If someone writes your filter word, it sends the answer. If you write a .filter it will show your list of filters.\n\n🍁 COMMAND: *.stop*\nℹ️ DESCRIPTION: Stops the filters you added earlier.\n\n🍁 COMMAND: *.welcome*\nℹ️ DESCRIPTION: It sets the welcome message.\n\n🍁 COMMAND: *.goodbye*\nℹ️ DESCRIPTION: Sets the goodbye  message.\n\n🍁 COMMAND: *.kickme*\nℹ️ DESCRIPTION: It removes the bot from the group that provided the command.\n\n🍁 COMMAND: *.pp*\nℹ️ DESCRIPTION: The photo you mention mentions the bot profile photo.\n\n🍁 COMMAND: *.block*\nℹ️ DESCRIPTION: Block tagged user.\n\n🍁 COMMAND: *.unblock*\nℹ️ DESCRIPTION: Unblock tagged user.\n\n🍁 COMMAND: *.jid*\nℹ️ DESCRIPTION: Giving user JID.\n\n🍁 COMMAND *.tagall*\nℹ️ DESCRIPTION: Tag everyone in group.\n\n🍁 COMMAND: *.up*\nℹ️ DESCRIPTION: Check for updates.\n\n🍁 COMMAND: *.uptrex*\nℹ️ DESCRIPTION: To update your bot.\n\n🍁 COMMAND: *.dyno*\nℹ️ DESCRIPTION: Showing heroku dyno hours.\n\n🍁 COMMAND: *.sysd*\nℹ️ DESCRIPTION: Show system properties.\n\n🍁 COMMAND: *.scam*\nℹ️ DESCRIPTION: Scam actions for 5min.\n\n🍁 COMMAND: *.antilink*\nℹ️ DESCRIPTION: Anti link on Ex: .antilink on/off\n\n🍁 COMMAND: *.antibad*\nℹ️ DESCRIPTION: Remove bad word users Ex: .antibad on/off\n\n🍁 COMMAND: *.chatbot*\nℹ️DESCRIPTION: Auto chat on Ex: .chatbot on/off\n👿 Command: .voice on/off\n▷ Description: Activate and deactivate voice chat\n\n👿 Command: .public ▷ Description: set bot as public\n\n 👿 Command: .private\n▷ Description: Set your bot as private\n\n*⚠️ The above command only works for Admin, Bot and SUDO numbers.\n\n❰🍁🔱  BLACK BOT  🔱🍁❱*
@@ -1858,11 +1856,11 @@ Example : .covid Sri Lanka°
         {title: '👿 Work Type PRIVATE 👿', description:"▷▷▷▷▷▷\n\n\n Type .private to private mode ▷", rowId:"rowid2"}
        ]
        
-       const sections = [{title: "👿 T-REX Command Panel 👿", rows: rows}]
+       const sections = [{title: "👿 BLACK Command Panel 👿", rows: rows}]
        
        const button = {
         buttonText: 'Click Me▷',
-        description: "👿 T-REX COMMAND PANEL 👿",
+        description: "👿 BLACK COMMAND PANEL 👿",
         sections: sections,
         listType: 1
        }

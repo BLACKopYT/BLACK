@@ -21,8 +21,8 @@ if (Config.WORKTYPE == 'private') {
 
     Trex.addrex({pattern: 'x4mp4', fromMe: true,  deleteCommand: false,  dontAddCommandList: true}, (async (message, match) => {    
 
-        if (!message.reply_message.video) return await message.sendMessage('*🍁 වීඩියෝ අවශ්‍යයි 🍁!*');
-        var downloading = await message.client.sendMessage(message.jid,'```🍁 සංස්කරණය වෙමින් පවති.. 🍁```',MessageType.text);
+        if (!message.reply_message.video) return await message.sendMessage('*🍁 Video required 🍁!*');
+        var downloading = await message.client.sendMessage(message.jid,'```🍁 Editing in progress.. 🍁```',MessageType.text);
         var location = await message.client.downloadAndSaveMediaMessage({
             key: {
                 remoteJid: message.reply_message.jid,
@@ -43,8 +43,8 @@ if (Config.WORKTYPE == 'private') {
 
     Trex.addrex({pattern: 'x2mp4', fromMe: true,  deleteCommand: false,  dontAddCommandList: true}, (async (message, match) => {    
 
-        if (!message.reply_message.video) return await message.sendMessage('*🍁 වීඩියෝ අවශ්‍යයි 🍁!*');
-        var downloading = await message.client.sendMessage(message.jid,'```🍁 සංස්කරණය වෙමින් පවති.. 🍁```',MessageType.text);
+        if (!message.reply_message.video) return await message.sendMessage('*🍁 Video required 🍁!*');
+        var downloading = await message.client.sendMessage(message.jid,'```🍁 Editing in progress.. 🍁```',MessageType.text);
         var location = await message.client.downloadAndSaveMediaMessage({
             key: {
                 remoteJid: message.reply_message.jid,
@@ -65,8 +65,8 @@ if (Config.WORKTYPE == 'private') {
 
     Trex.addrex({pattern: 'mp4image', fromMe: true,  deleteCommand: false,  dontAddCommandList: true}, (async (message, match) => {    
 
-        if (!message.reply_message.image) return await message.sendMessage('*ඡායාරූපය අවශ්‍යයි!*');
-        var downloading = await message.client.sendMessage(message.jid,'```පරිවර්තනය කිරීම..```',MessageType.text);
+        if (!message.reply_message.image) return await message.sendMessage('*Photo required!*');
+        var downloading = await message.client.sendMessage(message.jid,'```Translating..```',MessageType.text);
         var location = await message.client.downloadAndSaveMediaMessage({
             key: {
                 remoteJid: message.reply_message.jid,
@@ -89,8 +89,8 @@ if (Config.WORKTYPE == 'private') {
 
     Trex.addrex({pattern: 'spectrum', fromMe: true,  deleteCommand: false,  dontAddCommandList: true}, (async (message, match) => {    
 
-        if (!message.reply_message) return await message.sendMessage('*Audio file අවශ්‍යයි!*');
-        var downloading = await message.client.sendMessage(message.jid,'```පරිවර්තනය කිරීම..```',MessageType.text);
+        if (!message.reply_message) return await message.sendMessage('*Audio file want!*');
+        var downloading = await message.client.sendMessage(message.jid,'```Translating..```',MessageType.text);
         var location = await message.client.downloadAndSaveMediaMessage({
             key: {
                 remoteJid: message.reply_message.jid,

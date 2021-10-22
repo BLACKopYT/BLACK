@@ -1,4 +1,4 @@
-/*පකා ආවෙ මේක උස්සන්නද කැරියා හුකෝගන්නෙනැට්ගුව පල වද කැරියා අහුව්නොත් අම්මට හුකෝනවා දැනගන්
+/*
 */
 
 
@@ -14,33 +14,33 @@ if (Config.WORKTYPE == 'private') {
    
    Trex.addrex({ pattern: 'tlpack', fromMe: true, dontAddCommandList: true }, (async (message, match) => {
 
-        var ttinullimage = await axios.get(`https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg`, { responseType: 'arraybuffer' })
+        var ttinullimage = await axios.get(`https://telegra.ph/file/a9828216d4e5e0c9e23bc.png`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  `╔══════════════════════
-║❌ 🍁*REX LOGO PACK 1*🍁 ❌
+║❌ 🍁*BLACK LOGO PACK 1*🍁 ❌
 ╠══════════════════════
 ║
 ║   `+Config.CAPTION+`
 ║
 ╠═➢ 🍁Cmd: *.wel*
 ╠══➢ 📛 Dec: *Send welcome logo*
-╠═➢ 🍁 Ex: *.wel T-Rex/Hiruwa*
+╠═➢ 🍁 Ex: *.wel BLACK_FX*
 ║
 ╠═➢ 🍁 Cmd: *.bye*
 ╠══➢ 📛 Dec: *Send bye logo*
-╠═➢ 🍁Ex: *.bye T-REX/Hiruwa*
+╠═➢ 🍁Ex: *.bye BLACK_FX*
 ║
 ╠═➢ 🍁Cmd: *.marvel*
 ╠══➢ 📛 Dec: *Send marve logo*
-╠═➢ 🍁 Ex: *.marvel T-Rex/Hiruwa*
+╠═➢ 🍁 Ex: *.marvel BLACK_FX*
 ║
 ╠═➢ 🍁Cmd: *.2marvel*
 ╠══➢ 📛 Dec: *Send marvel logo*
-╠═➢ 🍁Ex: *.2marvel T-Rex/Hiruwa*
+╠═➢ 🍁Ex: *.2marvel BLACK_FX*
 ║
 ╠═➢ 🍁Cmd: *.wolf*
 ╠══➢ 📛 Dec: *Send wolf logo*
-╠═➢ 🍁Ex: *.wolf T-REX/HIRUWA*
+╠═➢ 🍁Ex: *.wolf BLACK_FX*
 ║
 ╠═➢ 🍁Cmd: *.lava*
 ╠══➢ 📛 Dec: *Send lava logo*
@@ -106,7 +106,7 @@ if (Config.WORKTYPE == 'private') {
 ╠══➢ 📛  Dec: *Send joker logo*
 ╠═➢ 🍁 Ex: *.joker T-REX*
 ║
-║      ╔═🍁 T-REX BOT 🍁═╗
+║      ╔═🍁 BLACK BOT 🍁═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════`,quoted: message.data})
 
