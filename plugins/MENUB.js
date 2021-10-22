@@ -213,7 +213,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
          👿 POWERD BY 👿
   ❰🍁🔱  BLACK BOT  🔱🍁❱
   
-       👿       Hiruwa        👿
+       👿       BLACK        👿
 ` , rowId:"rowid1"},
         {title: '👿 ADVANCE MENU 👿', description:`▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
@@ -770,7 +770,7 @@ Example : .covid Sri Lanka°
  ╰────────────────
 `, rowId:"rowid9"},
         {title: '👿 ABOUT BLACK BOT 👿', description:`▷▷▷▷▷▷\n\n\n
-🍁 Developer : Hiruwa
+🍁 Developer : BLACK
 🍁 Bot             : BLACK V 3.0.0 
 🍁 Language : Sinhala & English
 🍁 Sponcer Team : PEARL TEAM
@@ -991,7 +991,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
          👿 POWERD BY 👿
   ❰🍁🔱  BLACK BOT  🔱🍁❱
   
-       👿       Hiruwa        👿
+       👿       BLACK        👿
 ` , rowId:"rowid1"},
         {title: '👿 ADVANCE MENU 👿', description:`▷▷▷▷▷▷\n\n\n
 ╔═══════════════════════╗
@@ -1548,10 +1548,9 @@ Example : .covid Sri Lanka°
  ╰────────────────
 `, rowId:"rowid9"},
         {title: '👿 ABOUT BLACK BOT 👿', description:`▷▷▷▷▷▷\n\n\n
-🍁 Developer : Hiruwa
-🍁 Bot             : BLACK V 3.0.0 
-🍁 Language : Sinhala & English
-🍁 Sponcer Team : PEARL TEAM
+🍁 Developer : BLACK
+🍁 Bot             : BLACK V2
+🍁 Language : English
 🍁 Develop language : Node js
 🍁 Developer no : wa.me/+918078186254
 `, rowId:"rowid2"}

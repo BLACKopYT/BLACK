@@ -22,7 +22,7 @@ if (Config.WORKTYPE == 'public') {
 if (Config.BTN == 'btn') {
 
 Trex.addrex({pattern: 'help', fromMe: false}, (async (message, match) => {
-// T-REX LIST👿
+// BLACK LIST👿
         var time = new Date().toLocaleString('HI', { timeZone: Config.TIME }).split(' ')[1]
 
     var wish = ''
@@ -142,7 +142,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      T-REX BOT
+ │      BLACK BOT
  ╰────────────────
  ╭────────────────
  │    🍁👿 Search 👿🍁
@@ -234,7 +234,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
 *🍁 Command* °.rlpack°
 
-*➢ Description:* °T-REX LOGO COLLECTION 01°
+*➢ Description:* °BLACK LOGO COLLECTION 01°
 
 *🍁 Command:* °.lovepack°
 
@@ -533,69 +533,69 @@ Example : .covid Sri Lanka°
 ║
 ╠═➢ 🍁Cmd: *.blood*
 ╠══➢ 📛 Dec: *Send blood hor logo*
-╠═➢ 🍁Ex: *.blood T-REX*
+╠═➢ 🍁Ex: *.blood BLACK*
 ║
 ╠═➢ 🍁Cmd: *.blackpink*
 ╠══➢ 📛 Dec: *Send bpink logo*
-╠═➢ 🍁Ex: *.blackpink T-REX*
+╠═➢ 🍁Ex: *.blackpink BLACK*
 ║
 ╠═➢ 🍁Cmd: *.wall*
 ╠══➢ 📛 Dec: *Send wall art logo*
-╠═➢ 🍁Ex: *.wall T-Rex*
+╠═➢ 🍁Ex: *.wall BLACK*
 ║
 ╠═➢ 🍁Cmd: *.coding*
 ╠══➢📛 Dec: *Send coding logo*
-╠═➢ 🍁 Ex: *.coding T-REX*
+╠═➢ 🍁 Ex: *.coding BLACK*
 ║
 ╠═➢ 🍁Cmd: .*.sand1*
 ╠══➢ 📛  Dec: *Send sand writting*
-╠═➢ 🍁 Ex: *.sand1 T-REX*
+╠═➢ 🍁 Ex: *.sand1 BLACK*
 ║
 ╠═➢ 🍁Cmd: *.sand2*
 ╠══➢ 📛 Dec: *Send sand writting*
-╠═➢ 🍁Ex: *.sand2 T-REX
+╠═➢ 🍁Ex: *.sand2 BLACK
 ║
 ╠═➢ 🍁Cmd: *.sand3*
 ╠══➢ 📛 Dec: *Send sand writting*
-╠═➢ 🍁Ex: *.sand3 T-REX
+╠═➢ 🍁Ex: *.sand3 BLACK
 ║
 ╠═➢ 🍁Cmd: *.beach*
 ╠══➢ 📛 Dec: *Send beach logo*
-╠═➢ 🍁Ex: *.beach T-REX
+╠═➢ 🍁Ex: *.beach BLACK
 ║
 ╠═➢ 🍁Cmd: *.gradient*
 ╠══➢ 📛  Dec: *Send logo*
-╠═➢ 🍁 Ex: *.gradient T-REX*
+╠═➢ 🍁 Ex: *.gradient BLACK*
 ║
 ╠═➢ 🍁Cmd: *.luxury*
 ╠══➢ 📛  Dec: *Send luxury logo*
-╠═➢ 🍁 Ex: *.luxury T-REX*
+╠═➢ 🍁 Ex: *.luxury BLACK*
 ║
 ╠═➢ 🍁Cmd: *.sky*
 ╠══➢ 📛  Dec: *Send sky logo*
-╠═➢ 🍁 Ex: *.sky T-REX*
+╠═➢ 🍁 Ex: *.sky BLACK*
 ║
 ╠═➢ 🍁Cmd: *.winter*
 ╠══➢ 📛  Dec: *Send winter logo*
-╠═➢ 🍁 Ex: *.winter T-REX
+╠═➢ 🍁 Ex: *.winter BLACK
 ║
 ╠═➢ 🍁Cmd: *.christmas*
 ╠══➢ 📛  Dec: *Send xmas logo*
-╠═➢ 🍁 Ex: *.christmas T-REX*
+╠═➢ 🍁 Ex: *.christmas BLACK*
 ║
 ╠═➢ 🍁Cmd: *.neon*
 ╠══➢ 📛  Dec: *Send neon logo*
-╠═➢ 🍁 Ex: *.neon T-REX*
+╠═➢ 🍁 Ex: *.neon BLACK*
 ║
 ╠═➢ 🍁Cmd: *.king*
 ╠══➢ 📛  Dec: *Send king logo*
-╠═➢ 🍁 Ex: *.king T-REX*
+╠═➢ 🍁 Ex: *.king BLACK*
 ║
 ╠═➢ 🍁Cmd: *.glue*
 ╠══➢ 📛  Dec: *Send Glue logo*
-╠═➢ 🍁 Ex: *.glue T-REX*
+╠═➢ 🍁 Ex: *.glue BLACK*
 ║
-║      ╔═🍁 T-REX BOT 🍁═╗
+║      ╔═🍁 BLACK BOT 🍁═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid4"},
@@ -704,7 +704,7 @@ Example : .covid Sri Lanka°
 ║send free fire logo
 ║
 ║
-║▷Creator: HIRUSHA
+║▷Creator: BLACK
 ║
 ║ ❰🍁🔱  BLACK BOT  🔱🍁❱  
 ╚═════════════════════╝
@@ -738,11 +738,11 @@ Example : .covid Sri Lanka°
 ║
 ╠═➢ 🍁Cmd: *.lava*
 ╠══➢ 📛 Dec: *Send lava logo*
-╠═➢ 🍁Ex: *.lava T-REX*
+╠═➢ 🍁Ex: *.lava BLACK*
 ║
 ╠═➢ 🍁Cmd: *.xmas*
 ╠══➢ 📛 Dec: *Send xmas logo*
-╠═➢ 🍁Ex: *.xmas T-Rex*
+╠═➢ 🍁Ex: *.xmas BLACK*
 ║
 ╠═➢ 🍁Cmd: *.round*
 ╠══➢📛 Dec: *Send round logo*
@@ -750,57 +750,57 @@ Example : .covid Sri Lanka°
 ║
 ╠═➢ 🍁Cmd: .*.quot*
 ╠══➢ 📛  Dec: *Send quote logo*
-╠═➢ 🍁 Ex: *.quot T-REX*
+╠═➢ 🍁 Ex: *.quot BLACK*
 ║
 ╠═➢ 🍁Cmd: *.harta*
 ╠══➢ 📛 Dec: *Send harta logo*
-╠═➢ 🍁Ex: *.harta T-REX
+╠═➢ 🍁Ex: *.harta BLACK
 ║
 ╠═➢ 🍁Cmd: *.1917*
 ╠══➢ 📛 Dec: *Send 1917 logo*
-╠═➢ 🍁Ex: *.1917 T-REX
+╠═➢ 🍁Ex: *.1917 BLACK
 ║
 ╠═➢ 🍁Cmd: *.minion*
 ╠══➢ 📛 Dec: *Send minion logo*
-╠═➢ 🍁Ex: *.minion T-REX
+╠═➢ 🍁Ex: *.minion BLACK
 ║
 ╠═➢ 🍁Cmd: *.holo*
 ╠══➢ 📛  Dec: *Send holo logo*
-╠═➢ 🍁 Ex: *.holo T-REX*
+╠═➢ 🍁 Ex: *.holo BLACK*
 ║
 ╠═➢ 🍁Cmd: *.metalp*
 ╠══➢ 📛  Dec: *Send metalp logo*
-╠═➢ 🍁 Ex: *.metalp T-REX*
+╠═➢ 🍁 Ex: *.metalp BLACK*
 ║
 ╠═➢ 🍁Cmd: *.avengers*
 ╠══➢ 📛  Dec: *Send avengers logo*
-╠═➢ 🍁 Ex: *.avengers T-REX*
+╠═➢ 🍁 Ex: *.avengers BLACK*
 ║
 ╠═➢ 🍁Cmd: *.halloween*
 ╠══➢ 📛  Dec: *Send halloween logo*
-╠═➢ 🍁 Ex: *.halloween T-REX
+╠═➢ 🍁 Ex: *.halloween BLACK
 ║
 ╠═➢ 🍁Cmd: *.horror*
 ╠══➢ 📛  Dec: *Send horror logo*
-╠═➢ 🍁 Ex: *.horror T-REX*
+╠═➢ 🍁 Ex: *.horror BLACK*
 ║
 ╠═➢ 🍁Cmd: *.glossyc*
 ╠══➢ 📛  Dec: *Send glossy logo*
-╠═➢ 🍁 Ex: *.glossyc T-REX*
+╠═➢ 🍁 Ex: *.glossyc BLACK*
 ║
 ╠═➢ 🍁Cmd: *.deluxe*
 ╠══➢ 📛  Dec: *Send deluxe logo*
-╠═➢ 🍁 Ex: *.deluxe T-REX*
+╠═➢ 🍁 Ex: *.deluxe BLACK*
 ║
 ╠═➢ 🍁Cmd: *.glossyb*
 ╠══➢ 📛  Dec: *Send glossy logo*
-╠═➢ 🍁 Ex: *.glossyb T-REX*
+╠═➢ 🍁 Ex: *.glossyb BLACK*
 ║
 ╠═➢ 🍁Cmd: *.joker*
 ╠══➢ 📛  Dec: *Send joker logo*
-╠═➢ 🍁 Ex: *.joker T-REX*
+╠═➢ 🍁 Ex: *.joker BLACK*
 ║
-║      ╔═🍁 T-REX BOT 🍁═╗
+║      ╔═🍁 BLACK BOT 🍁═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid6"},
@@ -890,7 +890,7 @@ Example : .covid Sri Lanka°
 ╠═➢ 🍁.40attp       ❴your text❵
 ║send Text logo
 ║
-║▷Creator: HIRUSHA
+║▷Creator: BLACK
 ║
 ║ ❰🍁🔱  BLACK BOT  🔱🍁❱  
 ╚═════════════════════╝
@@ -914,10 +914,10 @@ Example : .covid Sri Lanka°
  │
  ╰────────────────
 `, rowId:"rowid9"},
-        {title: '👿 ABOUT T-REX BOT 👿', description:`▷▷▷▷▷▷\n\n\n
+        {title: '👿 ABOUT BLACK BOT 👿', description:`▷▷▷▷▷▷\n\n\n
 🍁 Developer : BLACK
-🍁 Bot             : T-REX V 3.0.0 
-🍁 Language : Sinhala & English
+🍁 Bot             : BLACK V2
+🍁 Language : English
 🍁 Develop language : Node js
 🍁 Developer no : wa.me/+918078186254
 `, rowId:"rowid2"}
@@ -937,7 +937,7 @@ Example : .covid Sri Lanka°
     }));
         
     Trex.addrex({pattern: 'trex', fromMe: true, dontaddCommandList:true}, (async (message, match) => {
-// T-REX LIST
+// BLACK LIST
 
 var time = new Date().toLocaleString('HI', { timeZone: Config.TIME }).split(' ')[1]
 
@@ -1052,7 +1052,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │
  │▷ .online store
  │ 
- │ 👿 T-REX ONLINE 👿
+ │ 👿 BLACK ONLINE 👿
  │     SHOPPING
  │
  │ ONLY SRI LANKAN 
@@ -1070,7 +1070,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      T-REX BOT
+ │      BLACK BOT
  ╰────────────────
  ╭────────────────
  │    🍁👿 Search 👿🍁
@@ -1162,7 +1162,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
 *🍁 Command* °.rlpack°
 
-*➢ Description:* °T-REX LOGO COLLECTION 01°
+*➢ Description:* °BLACK LOGO COLLECTION 01°
 
 *🍁 Command:* °.lovepack°
 
@@ -1461,69 +1461,69 @@ Example : .covid Sri Lanka°
 ║
 ╠═➢ 🍁Cmd: *.blood*
 ╠══➢ 📛 Dec: *Send blood hor logo*
-╠═➢ 🍁Ex: *.blood T-REX*
+╠═➢ 🍁Ex: *.blood BLACK*
 ║
 ╠═➢ 🍁Cmd: *.blackpink*
 ╠══➢ 📛 Dec: *Send bpink logo*
-╠═➢ 🍁Ex: *.blackpink T-REX*
+╠═➢ 🍁Ex: *.blackpink BLACK*
 ║
 ╠═➢ 🍁Cmd: *.wall*
 ╠══➢ 📛 Dec: *Send wall art logo*
-╠═➢ 🍁Ex: *.wall T-Rex*
+╠═➢ 🍁Ex: *.wall BLACK*
 ║
 ╠═➢ 🍁Cmd: *.coding*
 ╠══➢📛 Dec: *Send coding logo*
-╠═➢ 🍁 Ex: *.coding T-REX*
+╠═➢ 🍁 Ex: *.coding BLACK*
 ║
 ╠═➢ 🍁Cmd: .*.sand1*
 ╠══➢ 📛  Dec: *Send sand writting*
-╠═➢ 🍁 Ex: *.sand1 T-REX*
+╠═➢ 🍁 Ex: *.sand1 BLACK*
 ║
 ╠═➢ 🍁Cmd: *.sand2*
 ╠══➢ 📛 Dec: *Send sand writting*
-╠═➢ 🍁Ex: *.sand2 T-REX
+╠═➢ 🍁Ex: *.sand2 BLACK
 ║
 ╠═➢ 🍁Cmd: *.sand3*
 ╠══➢ 📛 Dec: *Send sand writting*
-╠═➢ 🍁Ex: *.sand3 T-REX
+╠═➢ 🍁Ex: *.sand3 BLACK
 ║
 ╠═➢ 🍁Cmd: *.beach*
 ╠══➢ 📛 Dec: *Send beach logo*
-╠═➢ 🍁Ex: *.beach T-REX
+╠═➢ 🍁Ex: *.beach BLACK
 ║
 ╠═➢ 🍁Cmd: *.gradient*
 ╠══➢ 📛  Dec: *Send logo*
-╠═➢ 🍁 Ex: *.gradient T-REX*
+╠═➢ 🍁 Ex: *.gradient BLACK*
 ║
 ╠═➢ 🍁Cmd: *.luxury*
 ╠══➢ 📛  Dec: *Send luxury logo*
-╠═➢ 🍁 Ex: *.luxury T-REX*
+╠═➢ 🍁 Ex: *.luxury BLACK*
 ║
 ╠═➢ 🍁Cmd: *.sky*
 ╠══➢ 📛  Dec: *Send sky logo*
-╠═➢ 🍁 Ex: *.sky T-REX*
+╠═➢ 🍁 Ex: *.sky BLACK*
 ║
 ╠═➢ 🍁Cmd: *.winter*
 ╠══➢ 📛  Dec: *Send winter logo*
-╠═➢ 🍁 Ex: *.winter T-REX
+╠═➢ 🍁 Ex: *.winter BLACK
 ║
 ╠═➢ 🍁Cmd: *.christmas*
 ╠══➢ 📛  Dec: *Send xmas logo*
-╠═➢ 🍁 Ex: *.christmas T-REX*
+╠═➢ 🍁 Ex: *.christmas BLACK*
 ║
 ╠═➢ 🍁Cmd: *.neon*
 ╠══➢ 📛  Dec: *Send neon logo*
-╠═➢ 🍁 Ex: *.neon T-REX*
+╠═➢ 🍁 Ex: *.neon BLACK*
 ║
 ╠═➢ 🍁Cmd: *.king*
 ╠══➢ 📛  Dec: *Send king logo*
-╠═➢ 🍁 Ex: *.king T-REX*
+╠═➢ 🍁 Ex: *.king BLACK*
 ║
 ╠═➢ 🍁Cmd: *.glue*
 ╠══➢ 📛  Dec: *Send Glue logo*
-╠═➢ 🍁 Ex: *.glue T-REX*
+╠═➢ 🍁 Ex: *.glue BLACK*
 ║
-║      ╔═🍁 T-REX BOT 🍁═╗
+║      ╔═🍁 BLACK BOT 🍁═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid4"},
@@ -1632,7 +1632,7 @@ Example : .covid Sri Lanka°
 ║send free fire logo
 ║
 ║
-║▷Creator: HIRUSHA
+║▷Creator: BLACK
 ║
 ║ ❰🍁🔱  BLACK BOT  🔱🍁❱  
 ╚═════════════════════╝
@@ -1666,11 +1666,11 @@ Example : .covid Sri Lanka°
 ║
 ╠═➢ 🍁Cmd: *.lava*
 ╠══➢ 📛 Dec: *Send lava logo*
-╠═➢ 🍁Ex: *.lava T-REX*
+╠═➢ 🍁Ex: *.lava BLACK*
 ║
 ╠═➢ 🍁Cmd: *.xmas*
 ╠══➢ 📛 Dec: *Send xmas logo*
-╠═➢ 🍁Ex: *.xmas T-Rex*
+╠═➢ 🍁Ex: *.xmas BLACK*
 ║
 ╠═➢ 🍁Cmd: *.round*
 ╠══➢📛 Dec: *Send round logo*
@@ -1678,57 +1678,57 @@ Example : .covid Sri Lanka°
 ║
 ╠═➢ 🍁Cmd: .*.quot*
 ╠══➢ 📛  Dec: *Send quote logo*
-╠═➢ 🍁 Ex: *.quot T-REX*
+╠═➢ 🍁 Ex: *.quot BLACK*
 ║
 ╠═➢ 🍁Cmd: *.harta*
 ╠══➢ 📛 Dec: *Send harta logo*
-╠═➢ 🍁Ex: *.harta T-REX
+╠═➢ 🍁Ex: *.harta BLACK
 ║
 ╠═➢ 🍁Cmd: *.1917*
 ╠══➢ 📛 Dec: *Send 1917 logo*
-╠═➢ 🍁Ex: *.1917 T-REX
+╠═➢ 🍁Ex: *.1917 BLACK
 ║
 ╠═➢ 🍁Cmd: *.minion*
 ╠══➢ 📛 Dec: *Send minion logo*
-╠═➢ 🍁Ex: *.minion T-REX
+╠═➢ 🍁Ex: *.minion BLACK
 ║
 ╠═➢ 🍁Cmd: *.holo*
 ╠══➢ 📛  Dec: *Send holo logo*
-╠═➢ 🍁 Ex: *.holo T-REX*
+╠═➢ 🍁 Ex: *.holo BLACK*
 ║
 ╠═➢ 🍁Cmd: *.metalp*
 ╠══➢ 📛  Dec: *Send metalp logo*
-╠═➢ 🍁 Ex: *.metalp T-REX*
+╠═➢ 🍁 Ex: *.metalp BLACK*
 ║
 ╠═➢ 🍁Cmd: *.avengers*
 ╠══➢ 📛  Dec: *Send avengers logo*
-╠═➢ 🍁 Ex: *.avengers T-REX*
+╠═➢ 🍁 Ex: *.avengers BLACK*
 ║
 ╠═➢ 🍁Cmd: *.halloween*
 ╠══➢ 📛  Dec: *Send halloween logo*
-╠═➢ 🍁 Ex: *.halloween T-REX
+╠═➢ 🍁 Ex: *.halloween BLACK
 ║
 ╠═➢ 🍁Cmd: *.horror*
 ╠══➢ 📛  Dec: *Send horror logo*
-╠═➢ 🍁 Ex: *.horror T-REX*
+╠═➢ 🍁 Ex: *.horror BLACK*
 ║
 ╠═➢ 🍁Cmd: *.glossyc*
 ╠══➢ 📛  Dec: *Send glossy logo*
-╠═➢ 🍁 Ex: *.glossyc T-REX*
+╠═➢ 🍁 Ex: *.glossyc BLACK*
 ║
 ╠═➢ 🍁Cmd: *.deluxe*
 ╠══➢ 📛  Dec: *Send deluxe logo*
-╠═➢ 🍁 Ex: *.deluxe T-REX*
+╠═➢ 🍁 Ex: *.deluxe BLACK*
 ║
 ╠═➢ 🍁Cmd: *.glossyb*
 ╠══➢ 📛  Dec: *Send glossy logo*
-╠═➢ 🍁 Ex: *.glossyb T-REX*
+╠═➢ 🍁 Ex: *.glossyb BLACK*
 ║
 ╠═➢ 🍁Cmd: *.joker*
 ╠══➢ 📛  Dec: *Send joker logo*
-╠═➢ 🍁 Ex: *.joker T-REX*
+╠═➢ 🍁 Ex: *.joker BLACK*
 ║
-║      ╔═🍁 T-REX BOT 🍁═╗
+║      ╔═🍁 BLACK BOT 🍁═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid6"},
@@ -1818,7 +1818,7 @@ Example : .covid Sri Lanka°
 ╠═➢ 🍁.40attp       ❴your text❵
 ║send Text logo
 ║
-║▷Creator: HIRUSHA
+║▷Creator: BLACK
 ║
 ║ ❰🍁🔱  BLACK BOT  🔱🍁❱  
 ╚═════════════════════╝
@@ -1842,10 +1842,10 @@ Example : .covid Sri Lanka°
  │
  ╰────────────────
 `, rowId:"rowid8"},
-        {title: '👿 ABOUT T-REX BOT 👿', description: `▷▷▷▷▷▷\n\n\n
+        {title: '👿 ABOUT BLACK BOT 👿', description: `▷▷▷▷▷▷\n\n\n
 🍁 Developer : BLACK
-🍁 Bot             : T-REX V 3.0.0 
-🍁 Language : Sinhala & English
+🍁 Bot             : BLACK V2
+🍁 Language : English
 🍁 Develop language : Node js
 🍁 Developer no : wa.me/+918078186254
 `, rowId:"rowid9"},
@@ -1877,7 +1877,7 @@ else if (Config.WORKTYPE == 'private') {
 if (Config.BTN == 'btn') {
         
 Trex.addrex({pattern: 'help', fromMe: true, dontaddCommandList:true}, (async (message, match) => {
-// T-REX LIST
+// BLACK LIST
 
 var time = new Date().toLocaleString('HI', { timeZone: Config.TIME }).split(' ')[1]
 
@@ -1998,7 +1998,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
  │    your whatsapp 
  │ name,profile pic,bio
  │      easy with
- │      T-REX BOT
+ │      BLACK BOT
  ╰────────────────
  ╭────────────────
  │    🍁👿 Search 👿🍁
@@ -2090,7 +2090,7 @@ if (hrs >= 19 && hrs <= 24) wish = '*ɢᴏᴏᴅ ɴɪɢʜᴛ 🌙*'
 
 *🍁 Command* °.rlpack°
 
-*➢ Description:* °T-REX LOGO COLLECTION 01°
+*➢ Description:* °BLACK LOGO COLLECTION 01°
 
 *🍁 Command:* °.lovepack°
 
@@ -2389,69 +2389,69 @@ Example : .covid Sri Lanka°
 ║
 ╠═➢ 🍁Cmd: *.blood*
 ╠══➢ 📛 Dec: *Send blood hor logo*
-╠═➢ 🍁Ex: *.blood T-REX*
+╠═➢ 🍁Ex: *.blood BLACK*
 ║
 ╠═➢ 🍁Cmd: *.blackpink*
 ╠══➢ 📛 Dec: *Send bpink logo*
-╠═➢ 🍁Ex: *.blackpink T-REX*
+╠═➢ 🍁Ex: *.blackpink BLACK*
 ║
 ╠═➢ 🍁Cmd: *.wall*
 ╠══➢ 📛 Dec: *Send wall art logo*
-╠═➢ 🍁Ex: *.wall T-Rex*
+╠═➢ 🍁Ex: *.wall BLACK*
 ║
 ╠═➢ 🍁Cmd: *.coding*
 ╠══➢📛 Dec: *Send coding logo*
-╠═➢ 🍁 Ex: *.coding T-REX*
+╠═➢ 🍁 Ex: *.coding BLACK*
 ║
 ╠═➢ 🍁Cmd: .*.sand1*
 ╠══➢ 📛  Dec: *Send sand writting*
-╠═➢ 🍁 Ex: *.sand1 T-REX*
+╠═➢ 🍁 Ex: *.sand1 BLACK*
 ║
 ╠═➢ 🍁Cmd: *.sand2*
 ╠══➢ 📛 Dec: *Send sand writting*
-╠═➢ 🍁Ex: *.sand2 T-REX
+╠═➢ 🍁Ex: *.sand2 BLACK
 ║
 ╠═➢ 🍁Cmd: *.sand3*
 ╠══➢ 📛 Dec: *Send sand writting*
-╠═➢ 🍁Ex: *.sand3 T-REX
+╠═➢ 🍁Ex: *.sand3 BLACK
 ║
 ╠═➢ 🍁Cmd: *.beach*
 ╠══➢ 📛 Dec: *Send beach logo*
-╠═➢ 🍁Ex: *.beach T-REX
+╠═➢ 🍁Ex: *.beach BLACK
 ║
 ╠═➢ 🍁Cmd: *.gradient*
 ╠══➢ 📛  Dec: *Send logo*
-╠═➢ 🍁 Ex: *.gradient T-REX*
+╠═➢ 🍁 Ex: *.gradient BLACK*
 ║
 ╠═➢ 🍁Cmd: *.luxury*
 ╠══➢ 📛  Dec: *Send luxury logo*
-╠═➢ 🍁 Ex: *.luxury T-REX*
+╠═➢ 🍁 Ex: *.luxury BLACK*
 ║
 ╠═➢ 🍁Cmd: *.sky*
 ╠══➢ 📛  Dec: *Send sky logo*
-╠═➢ 🍁 Ex: *.sky T-REX*
+╠═➢ 🍁 Ex: *.sky BLACK*
 ║
 ╠═➢ 🍁Cmd: *.winter*
 ╠══➢ 📛  Dec: *Send winter logo*
-╠═➢ 🍁 Ex: *.winter T-REX
+╠═➢ 🍁 Ex: *.winter BLACK
 ║
 ╠═➢ 🍁Cmd: *.christmas*
 ╠══➢ 📛  Dec: *Send xmas logo*
-╠═➢ 🍁 Ex: *.christmas T-REX*
+╠═➢ 🍁 Ex: *.christmas BLACK*
 ║
 ╠═➢ 🍁Cmd: *.neon*
 ╠══➢ 📛  Dec: *Send neon logo*
-╠═➢ 🍁 Ex: *.neon T-REX*
+╠═➢ 🍁 Ex: *.neon BLACK*
 ║
 ╠═➢ 🍁Cmd: *.king*
 ╠══➢ 📛  Dec: *Send king logo*
-╠═➢ 🍁 Ex: *.king T-REX*
+╠═➢ 🍁 Ex: *.king BLACK*
 ║
 ╠═➢ 🍁Cmd: *.glue*
 ╠══➢ 📛  Dec: *Send Glue logo*
-╠═➢ 🍁 Ex: *.glue T-REX*
+╠═➢ 🍁 Ex: *.glue BLACK*
 ║
-║      ╔═🍁 T-REX BOT 🍁═╗
+║      ╔═🍁 BLACK BOT 🍁═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid4"},
@@ -2560,7 +2560,7 @@ Example : .covid Sri Lanka°
 ║send free fire logo
 ║
 ║
-║▷Creator: HIRUSHA
+║▷Creator: BLACK
 ║
 ║ ❰🍁🔱  BLACK BOT  🔱🍁❱  
 ╚═════════════════════╝
@@ -2594,11 +2594,11 @@ Example : .covid Sri Lanka°
 ║
 ╠═➢ 🍁Cmd: *.lava*
 ╠══➢ 📛 Dec: *Send lava logo*
-╠═➢ 🍁Ex: *.lava T-REX*
+╠═➢ 🍁Ex: *.lava BLACK*
 ║
 ╠═➢ 🍁Cmd: *.xmas*
 ╠══➢ 📛 Dec: *Send xmas logo*
-╠═➢ 🍁Ex: *.xmas T-Rex*
+╠═➢ 🍁Ex: *.xmas BLACK*
 ║
 ╠═➢ 🍁Cmd: *.round*
 ╠══➢📛 Dec: *Send round logo*
@@ -2606,57 +2606,57 @@ Example : .covid Sri Lanka°
 ║
 ╠═➢ 🍁Cmd: .*.quot*
 ╠══➢ 📛  Dec: *Send quote logo*
-╠═➢ 🍁 Ex: *.quot T-REX*
+╠═➢ 🍁 Ex: *.quot BLACK*
 ║
 ╠═➢ 🍁Cmd: *.harta*
 ╠══➢ 📛 Dec: *Send harta logo*
-╠═➢ 🍁Ex: *.harta T-REX
+╠═➢ 🍁Ex: *.harta BLACK
 ║
 ╠═➢ 🍁Cmd: *.1917*
 ╠══➢ 📛 Dec: *Send 1917 logo*
-╠═➢ 🍁Ex: *.1917 T-REX
+╠═➢ 🍁Ex: *.1917 BLACK
 ║
 ╠═➢ 🍁Cmd: *.minion*
 ╠══➢ 📛 Dec: *Send minion logo*
-╠═➢ 🍁Ex: *.minion T-REX
+╠═➢ 🍁Ex: *.minion BLACK
 ║
 ╠═➢ 🍁Cmd: *.holo*
 ╠══➢ 📛  Dec: *Send holo logo*
-╠═➢ 🍁 Ex: *.holo T-REX*
+╠═➢ 🍁 Ex: *.holo BLACK*
 ║
 ╠═➢ 🍁Cmd: *.metalp*
 ╠══➢ 📛  Dec: *Send metalp logo*
-╠═➢ 🍁 Ex: *.metalp T-REX*
+╠═➢ 🍁 Ex: *.metalp BLACK*
 ║
 ╠═➢ 🍁Cmd: *.avengers*
 ╠══➢ 📛  Dec: *Send avengers logo*
-╠═➢ 🍁 Ex: *.avengers T-REX*
+╠═➢ 🍁 Ex: *.avengers BLACK*
 ║
 ╠═➢ 🍁Cmd: *.halloween*
 ╠══➢ 📛  Dec: *Send halloween logo*
-╠═➢ 🍁 Ex: *.halloween T-REX
+╠═➢ 🍁 Ex: *.halloween BLACK
 ║
 ╠═➢ 🍁Cmd: *.horror*
 ╠══➢ 📛  Dec: *Send horror logo*
-╠═➢ 🍁 Ex: *.horror T-REX*
+╠═➢ 🍁 Ex: *.horror BLACK*
 ║
 ╠═➢ 🍁Cmd: *.glossyc*
 ╠══➢ 📛  Dec: *Send glossy logo*
-╠═➢ 🍁 Ex: *.glossyc T-REX*
+╠═➢ 🍁 Ex: *.glossyc BLACK*
 ║
 ╠═➢ 🍁Cmd: *.deluxe*
 ╠══➢ 📛  Dec: *Send deluxe logo*
-╠═➢ 🍁 Ex: *.deluxe T-REX*
+╠═➢ 🍁 Ex: *.deluxe BLACK*
 ║
 ╠═➢ 🍁Cmd: *.glossyb*
 ╠══➢ 📛  Dec: *Send glossy logo*
-╠═➢ 🍁 Ex: *.glossyb T-REX*
+╠═➢ 🍁 Ex: *.glossyb BLACK*
 ║
 ╠═➢ 🍁Cmd: *.joker*
 ╠══➢ 📛  Dec: *Send joker logo*
-╠═➢ 🍁 Ex: *.joker T-REX*
+╠═➢ 🍁 Ex: *.joker BLACK*
 ║
-║      ╔═🍁 T-REX BOT 🍁═╗
+║      ╔═🍁 BLACK BOT 🍁═╗
 ║        ╚ ENJOY WITH US ╝
 ╚══════════════════════
 `, rowId:"rowid6"},
@@ -2746,7 +2746,7 @@ Example : .covid Sri Lanka°
 ╠═➢ 🍁.40attp       ❴your text❵
 ║send Text logo
 ║
-║▷Creator: HIRUSHA
+║▷Creator: BLACK
 ║
 ║ ❰🍁🔱  BLACK BOT  🔱🍁❱  
 ╚═════════════════════╝
@@ -2770,13 +2770,12 @@ Example : .covid Sri Lanka°
  │
  ╰────────────────
 `, rowId:"rowid8"},
-        {title: '👿 ABOUT T-REX BOT 👿', description: `▷▷▷▷▷▷\n\n\n
+        {title: '👿 ABOUT BLACK BOT 👿', description: `▷▷▷▷▷▷\n\n\n
 🍁 Developer : BLACK
-🍁 Bot             : T-REX V 3.0.0 
-🍁 Language : Sinhala & English
-🍁 Sponcer Team : PEARL TEAM
+🍁 Bot             : BLACK V2 
+🍁 Language : English
 🍁 Develop language : Node js
-🍁 Developer no : wa.me/+94788306130
+🍁 Developer no : wa.me/918078186254
 `, rowId:"rowid9"},
         {title: '👿 ADMIN PANEL 👿', description: `▷▷▷▷▷▷\n\n\n
 ❰🍁🔱  BLACK BOT  🔱🍁❱\n\n🍁 COMMAND: *.ban*\nℹ️ DESCRIPTION: Remove someone from the group. Mention the message or tag a person to use command.\n\n🍁 COMMAND: *.add*\nℹ️ DESCRIPTION: Adds someone to the group.\n\n🍁 COMMAND: *.mute*\nℹ️ DESCRIPTION: Mute group chat. Messages can only be sent by admin. \n\n🍁 COMMAND: *.unmute*\nℹ️ DESCRIPTION: Remove group chat mute. Anyone can send a message.\n\n🍁 COMMAND: *.clear*\nℹ️ DESCRIPTION: Clearing chat.\n\n🍁 COMMAND: *.name*\nℹ️ DESCRIPTION: Change group name. \n\n🍁 COMMAND: *.promote*\nℹ️ DESCRIPTION: Promoting members to admin.\n\n🍁 COMMAND: *.demote*\nℹ️ DESCRIPTION: Demoting admins.\n\n🍁 COMMAND: *.myplugin*\nℹ️ DESCRIPTION: To view the current plugin list from ❰🍁🔱  BLACK BOT  🔱🍁❱.\n\n🍁 COMMAND: *.plug*\nℹ️ DESCRIPTION: Install external plugins.\n\n🍁 COMMAND: *.unplug*\nℹ️ DESCRIPTION: Removes the plugin.\n\n🍁 COMMAND: *.invite*\nℹ️ DESCRIPTION: Provides group invitation link.\n\n🍁 COMMAND: *.afk*\nℹ️ DESCRIPTION: It turns bot bot AFK - Away From Keyboard.\n\n🍁 COMMAND: *.restart*\n➢ DESCRIPTION: Restart the bot.\n\n🍁 COMMAND: *.shutdown*\n➢ DESCRIPTION: Shutdown the Bot.\n\n🍁 COMMAND: *.setvar*\n➢ DESCRIPTION: Change heroku config vars.\n\n🍁 COMMAND: *.getvar*\n➢ DESCRIPTION: Get heroku config var.\n\n🍁 COMMAND: *.speedtest*\n➢ DESCRIPTION:Check download and upload speed.\n\n🍁 COMMAND: *.filter*\nℹ️ DESCRIPTION: It adds filters. If someone writes your filter word, it sends the answer. If you write a .filter it will show your list of filters.\n\n🍁 COMMAND: *.stop*\nℹ️ DESCRIPTION: Stops the filters you added earlier.\n\n🍁 COMMAND: *.welcome*\nℹ️ DESCRIPTION: It sets the welcome message.\n\n🍁 COMMAND: *.goodbye*\nℹ️ DESCRIPTION: Sets the goodbye  message.\n\n🍁 COMMAND: *.kickme*\nℹ️ DESCRIPTION: It removes the bot from the group that provided the command.\n\n🍁 COMMAND: *.pp*\nℹ️ DESCRIPTION: The photo you mention mentions the bot profile photo.\n\n🍁 COMMAND: *.block*\nℹ️ DESCRIPTION: Block tagged user.\n\n🍁 COMMAND: *.unblock*\nℹ️ DESCRIPTION: Unblock tagged user.\n\n🍁 COMMAND: *.jid*\nℹ️ DESCRIPTION: Giving user JID.\n\n🍁 COMMAND *.tagall*\nℹ️ DESCRIPTION: Tag everyone in group.\n\n🍁 COMMAND: *.up*\nℹ️ DESCRIPTION: Check for updates.\n\n🍁 COMMAND: *.uptrex*\nℹ️ DESCRIPTION: To update your bot.\n\n🍁 COMMAND: *.dyno*\nℹ️ DESCRIPTION: Showing heroku dyno hours.\n\n🍁 COMMAND: *.sysd*\nℹ️ DESCRIPTION: Show system properties.\n\n🍁 COMMAND: *.scam*\nℹ️ DESCRIPTION: Scam actions for 5min.\n\n🍁 COMMAND: *.antilink*\nℹ️ DESCRIPTION: Anti link on Ex: .antilink on/off\n\n🍁 COMMAND: *.antibad*\nℹ️ DESCRIPTION: Remove bad word users Ex: .antibad on/off\n\n🍁 COMMAND: *.chatbot*\nℹ️DESCRIPTION: Auto chat on Ex: .chatbot on/off\n👿 Command: .voice on/off\n▷ Description: Activate and deactivate voice chat\n\n👿 Command: .public ▷ Description: set bot as public\n\n 👿 Command: .private\n▷ Description: Set your bot as private\n\n*⚠️ The above command only works for Admin, Bot and SUDO numbers.\n\n❰🍁🔱  BLACK BOT  🔱🍁❱*
@@ -2785,11 +2784,11 @@ Example : .covid Sri Lanka°
         {title: '👿 Work Type PRIVATE 👿', description:"▷▷▷▷▷▷\n\n\nType .private to private mode", rowId:"rowid2"}
        ]
        
-       const sections = [{title: "👿 T-REX Command Panel 👿", rows: rows}]
+       const sections = [{title: "👿 BLACK Command Panel 👿", rows: rows}]
        
        const button = {
         buttonText: 'Click Me▷',
-        description: "👿 T-REX COMMAND PANEL 👿",
+        description: "👿 BLACK COMMAND PANEL 👿",
         sections: sections,
         listType: 1
        }
