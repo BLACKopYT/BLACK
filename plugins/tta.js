@@ -14,7 +14,7 @@ Trex.addrex({pattern: 'tta (.*)', fromMe: false, dontAddCommandList: true }, (as
     let 
         LANG = config.LANG.toLowerCase(),
         ttsMessage = match[1],
-        SPEED = 1.0
+        SPEED = 5.0
 
     if(langMatch = match[1].match("\\{([a-z]{2})\\}")) {
         LANG = langMatch[1]
