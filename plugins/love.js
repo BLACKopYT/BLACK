@@ -55,7 +55,7 @@ const Ln = "  *Send Love Messages.. , ආදර පණිවිඩ යැවී�
 
     var r_text = new Array ();
 
-    r_text[0] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
+    r_text[0] = "https://telegra.ph/file/a9828216d4e5e0c9e23bc.png";
 
     r_text[1] = "https://telegra.ph/file/60ed08a879ef94dcf8e35.jpg";
 
