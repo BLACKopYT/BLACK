@@ -30,7 +30,7 @@ Trex.addrex({pattern: 'up$', fromMe: true, desc: Lang.UPDATER_DESC}, (async (mes
         var degisiklikler = Lang.NEW_UPDATE;
         commits['all'].map(
             (commit) => {
-                degisiklikler += '🍁 ▷ [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' ◁◁Hiruwa▷▷\n';
+                degisiklikler += '🍁 ▷ [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' ◁◁BLACK▷▷\n';
             }
         );
         
@@ -41,7 +41,7 @@ Trex.addrex({pattern: 'up$', fromMe: true, desc: Lang.UPDATER_DESC}, (async (mes
     }
 }));
 
-Trex.addrex({pattern: 'uptrex$', fromMe: true, desc: Lang.UPDATE_NOW_DESC}, (async (message, match) => {
+Trex.addrex({pattern: 'upblack$', fromMe: true, desc: Lang.UPDATE_NOW_DESC}, (async (message, match) => {
     await git.fetch();
     var commits = await git.log([Config.BRANCH + '..origin/' + Config.BRANCH]);
     if (commits.total === 0) {
@@ -122,7 +122,7 @@ Trex.addrex({pattern: 'up$', fromMe: true,  deleteCommand: false,  desc: Lang.UP
         var degisiklikler = Lang.NEW_UPDATE;
         commits['all'].map(
             (commit) => {
-                degisiklikler += '🍁 ➢ [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' \n <' + "Hiruwa" + '>\n\n';
+                degisiklikler += '🍁 ➢ [' + commit.date.substring(0, 10) + ']: ' + commit.message + ' \n <' + "BLACK" + '>\n\n';
             }
         );
         
@@ -133,7 +133,7 @@ Trex.addrex({pattern: 'up$', fromMe: true,  deleteCommand: false,  desc: Lang.UP
     }
 }));
 
-Trex.addrex({pattern: 'uptrex$', fromMe: true,  deleteCommand: false,  desc: Lang.UPDATE_NOW_DESC, dontAddCommandList: true}, (async (message, match) => {
+Trex.addrex({pattern: 'upblack$', fromMe: true,  deleteCommand: false,  desc: Lang.UPDATE_NOW_DESC, dontAddCommandList: true}, (async (message, match) => {
     await git.fetch();
     var commits = await git.log([Config.BRANCH + '..origin/' + Config.BRANCH]);
     if (commits.total === 0) {
