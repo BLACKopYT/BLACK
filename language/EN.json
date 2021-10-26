@@ -16,7 +16,7 @@
             "NEED_URL": "Please enter a plugin link! Example:",
             "INVALID_URL": "```Please enter a valid URL!```",
             "INVALID_PLUGIN": "*❌ Your plugin ink is invalid!*\n*Error:*",
-            "INSTALLED": "*✅ Plugin සාර්ථකව install කර ඇත!*",
+            "INSTALLED": "*✅ Plugin Successfully installed!*",
             "PLUGIN_DESC": "Shows the plugin you have installed.",
             "INSTALLED_FROM_REMOTE": "*Plugins that you install externally:*\n",
             "NO_PLUGIN": "*You have not installed any external plugin!*",
@@ -186,12 +186,12 @@
             "TTS_DESC": "It translates words into voice messages.",
             "TTS_ERROR": "```Error, you can't voice message in your sentence!```",
             "SONG_DESC": "Uploading the songs.",
-            "NEED_TEXT_SONG": "*Please give me song name!*\n*Example:* ```.song build a bitch```",
+            "NEED_TEXT_SONG": "*Please give me song name!*\n*Example:* ```.song (SONG NAME)```",
             "NO_RESULT": "*I could not find anything. :(*",
             "DOWNLOADING_SONG": "DOWM",
             "UPLOADING_SONG": "Up",
             "VIDEO_DESC": "Downloading videos from YouTube",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* .video https://www.youtube.com/watch?v=cXcQMXC66c4",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* .video https://www.youtube.com/watch?v=f8A7jP1EOGI",
             "DOWNLOADING_VIDEO": "DOWN",
             "UPLOADING_VIDEO": "UP",
             "YT_DESC": "Searchng videos on YouTube.",
@@ -399,7 +399,7 @@
         "deepai": {
             "DEEPAI_DESC": "AI chat(OLD)",
             "TEXT": "*You must enter text! Although I am a powerful artificial intelligence, I cannot read your thoughts!*",
-            "URL": "*You must enter the image URL!*\n*Example:* https://i.ibb.co/5rt16dP/Queen-Amdi.jpg"
+            "URL": "*You must enter the image URL!*\n*Example:* https://telegra.ph/file/a9828216d4e5e0c9e23bc.png"
         },
         "ttp": {
             "TTP_DESC": "Make text image",
@@ -454,7 +454,7 @@
             "HL_COUNT":"🍁 Highlight story"
         },
         "github": {
-            "GİTHUB_DESC": "Stalk github profiles of given username.\n⌨️ Example: .github TRex",
+            "GİTHUB_DESC": "Stalk github profiles of given username.\n⌨️ Example: .github BLACK",
             "REPLY": "```🍁➢ Please type github username!```",
             "NOT": "```➢ User not found!```",
             "FOLLOWERS": "🍁 Followers:",
@@ -538,7 +538,7 @@
             "SPO_USAGE": "Search songs from spotify."
         },
         "information":{
-            "COVID_DESC": "Check information about Covid-19 of countries.\nExample : .covid Sri Lanka",
+            "COVID_DESC": "Check information about Covid-19 of countries.\nExample : .covid India",
             "NEED_CON": "Please enter a country name.",
             "NO_RESULT": "*I could not find that country :(*",
             "COUNTRY": "🌏 *Country* : ",
