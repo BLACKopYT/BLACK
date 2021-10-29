@@ -67,13 +67,6 @@ Trex.addrex({on: 'text', fromMe: false, deleteCommand: false}, (async (message, 
             if (!im) return;
             if (us) return;
             await message.client.sendMessage(message.jid,'_❌ Link Detected_', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*10*', MessageType.text, {quoted: message.data })
-			await message.client.sendMessage(message.jid,'*9*', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*8*', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*7*', MessageType.text, {quoted: message.data })
-			await message.client.sendMessage(message.jid,'*6*', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*5*', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*4*', MessageType.text, {quoted: message.data })
 			await message.client.sendMessage(message.jid,'*3*', MessageType.text, {quoted: message.data })
             await message.client.sendMessage(message.jid,'*2*', MessageType.text, {quoted: message.data })
             await message.client.sendMessage(message.jid,'*1*', MessageType.text, {quoted: message.data })
@@ -86,13 +79,6 @@ Trex.addrex({on: 'text', fromMe: false, deleteCommand: false}, (async (message, 
             if (!im) return;
             if (us) return;
             await message.client.sendMessage(message.jid,'_❌ Link Detected_', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*10*', MessageType.text, {quoted: message.data })
-			await message.client.sendMessage(message.jid,'*9*', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*8*', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*7*', MessageType.text, {quoted: message.data })
-			await message.client.sendMessage(message.jid,'*6*', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*5*', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*4*', MessageType.text, {quoted: message.data })
 			await message.client.sendMessage(message.jid,'*3*', MessageType.text, {quoted: message.data })
             await message.client.sendMessage(message.jid,'*2*', MessageType.text, {quoted: message.data })
             await message.client.sendMessage(message.jid,'*1*', MessageType.text, {quoted: message.data })
@@ -105,13 +91,6 @@ Trex.addrex({on: 'text', fromMe: false, deleteCommand: false}, (async (message, 
             if (!im) return;
             if (us) return;
             await message.client.sendMessage(message.jid,'_❌ Link Detected_', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*10*', MessageType.text, {quoted: message.data })
-			await message.client.sendMessage(message.jid,'*9*', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*8*', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*7*', MessageType.text, {quoted: message.data })
-			await message.client.sendMessage(message.jid,'*6*', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*5*', MessageType.text, {quoted: message.data })
-            await message.client.sendMessage(message.jid,'*4*', MessageType.text, {quoted: message.data })
 			await message.client.sendMessage(message.jid,'*3*', MessageType.text, {quoted: message.data })
             await message.client.sendMessage(message.jid,'*2*', MessageType.text, {quoted: message.data })
             await message.client.sendMessage(message.jid,'*1*', MessageType.text, {quoted: message.data })
