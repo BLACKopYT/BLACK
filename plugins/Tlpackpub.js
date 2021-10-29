@@ -40,11 +40,11 @@ if (Config.WORKTYPE == 'public') {
 ║
 ╠═➢ 🍁Cmd: *.lava*
 ╠══➢ 📛 Dec: *Send lava logo*
-╠═➢ 🍁Ex: *.lava T-REX*
+╠═➢ 🍁Ex: *.lava BLACK_FX*
 ║
 ╠═➢ 🍁Cmd: *.xmas*
 ╠══➢ 📛 Dec: *Send xmas logo*
-╠═➢ 🍁Ex: *.xmas T-Rex*
+╠═➢ 🍁Ex: *.xmas BLACK_FX*
 ║
 ╠═➢ 🍁Cmd: *.round*
 ╠══➢📛 Dec: *Send round logo*
@@ -52,55 +52,55 @@ if (Config.WORKTYPE == 'public') {
 ║
 ╠═➢ 🍁Cmd: .*.quot*
 ╠══➢ 📛  Dec: *Send quote logo*
-╠═➢ 🍁 Ex: *.quot T-REX*
+╠═➢ 🍁 Ex: *.quot BLACK_FX*
 ║
 ╠═➢ 🍁Cmd: *.harta*
 ╠══➢ 📛 Dec: *Send harta logo*
-╠═➢ 🍁Ex: *.harta T-REX
+╠═➢ 🍁Ex: *.harta BLACK_FX
 ║
 ╠═➢ 🍁Cmd: *.1917*
 ╠══➢ 📛 Dec: *Send 1917 logo*
-╠═➢ 🍁Ex: *.1917 T-REX
+╠═➢ 🍁Ex: *.1917 BLACK_FX
 ║
 ╠═➢ 🍁Cmd: *.minion*
 ╠══➢ 📛 Dec: *Send minion logo*
-╠═➢ 🍁Ex: *.minion T-REX
+╠═➢ 🍁Ex: *.minion BLACK_FX
 ║
 ╠═➢ 🍁Cmd: *.holo*
 ╠══➢ 📛  Dec: *Send holo logo*
-╠═➢ 🍁 Ex: *.holo T-REX*
+╠═➢ 🍁 Ex: *.holo BLACK_FX*
 ║
 ╠═➢ 🍁Cmd: *.metalp*
 ╠══➢ 📛  Dec: *Send metalp logo*
-╠═➢ 🍁 Ex: *.metalp T-REX*
+╠═➢ 🍁 Ex: *.metalp BLACK_FX*
 ║
 ╠═➢ 🍁Cmd: *.avengers*
 ╠══➢ 📛  Dec: *Send avengers logo*
-╠═➢ 🍁 Ex: *.avengers T-REX*
+╠═➢ 🍁 Ex: *.avengers BLACK_FX*
 ║
 ╠═➢ 🍁Cmd: *.halloween*
 ╠══➢ 📛  Dec: *Send halloween logo*
-╠═➢ 🍁 Ex: *.halloween T-REX
+╠═➢ 🍁 Ex: *.halloween BLACK_FX
 ║
 ╠═➢ 🍁Cmd: *.horror*
 ╠══➢ 📛  Dec: *Send horror logo*
-╠═➢ 🍁 Ex: *.horror T-REX*
+╠═➢ 🍁 Ex: *.horror BLACK_FX*
 ║
 ╠═➢ 🍁Cmd: *.glossyc*
 ╠══➢ 📛  Dec: *Send glossy logo*
-╠═➢ 🍁 Ex: *.glossyc T-REX*
+╠═➢ 🍁 Ex: *.glossyc BLACK_FX*
 ║
 ╠═➢ 🍁Cmd: *.deluxe*
 ╠══➢ 📛  Dec: *Send deluxe logo*
-╠═➢ 🍁 Ex: *.deluxe T-REX*
+╠═➢ 🍁 Ex: *.deluxe BLACK_FX*
 ║
 ╠═➢ 🍁Cmd: *.glossyb*
 ╠══➢ 📛  Dec: *Send glossy logo*
-╠═➢ 🍁 Ex: *.glossyb T-REX*
+╠═➢ 🍁 Ex: *.glossyb BLACK_FX*
 ║
 ╠═➢ 🍁Cmd: *.joker*
 ╠══➢ 📛  Dec: *Send joker logo*
-╠═➢ 🍁 Ex: *.joker T-REX*
+╠═➢ 🍁 Ex: *.joker BLACK_FX*
 ║
 ║      ╔═🍁 BLACK BOT 🍁═╗
 ║        ╚ ENJOY WITH US ╝
@@ -269,7 +269,7 @@ if (Config.WORKTYPE == 'public') {
         if (match[1] === '') return await message.sendMessage(need);
 
         var rex = await axios.
-        get(`https://pencarikode.xyz/api/textpro/avengers-logo?text=T-Rex&text2=${encodeURIComponent(match[1])}&apikey=pais`, { responseType: 'arraybuffer' })
+        get(`https://pencarikode.xyz/api/textpro/avengers-logo?text=BLACK_FX&text2=${encodeURIComponent(match[1])}&apikey=pais`, { responseType: 'arraybuffer' })
         await message.sendMessage(Buffer.from(rex.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  Config.CAPTION+'\n\n   ❰🍁🔱  BLACK BOT  🔱🍁❱ ',quoted: message.data})
 
     }));

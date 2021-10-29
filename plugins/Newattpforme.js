@@ -97,7 +97,7 @@ if (Config.WORKTYPE == 'public') {
 ╠═➢ 🍁.40attp       ❴your text❵
 ║send Text logo
 ║
-║▷Creator: BLACK
+║▷Creator: BLACK_FX
 ║
 ║ ❰🍁🔱  BLACK BOT  🔱🍁❱  
 ╚═════════════════════╝
