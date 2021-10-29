@@ -1,7 +1,7 @@
-/* Copyright (C) 2021 T-REX
+/* Copyright (C) 2021 BLACK
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-T-REX HIRUA
+BLACK HIRUA
 */
 
 const { Sequelize } = require('sequelize');
@@ -21,6 +21,7 @@ module.exports = {
     SESSION: process.env.TREX_SESSION === undefined ? '' : process.env.TREX_SESSION,
     ANTİLİNK: process.env.ANTİ_LİNK === undefined ? 'false' : process.env.ANTİ_LİNK,
     TIME: process.env.TIME_ZONE === undefined ? 'Asia/Colombo' : process.env.TIME_ZONE,
+    AL: process.env.ALIVE_LOGO === undefined ? '' : process.env.ALIVE_LOGO,
     BTN: process.env.BUTTON_CMD === undefined ? 'btn' : process.env.BUTTON_CMD,
     AUTOBIO: process.env.AUTO_BIO === undefined ? 'false' : process.env.AUTO_BIO,
     THERI_KICK: process.env.THERI_KICK === undefined ? 'false' : process.env.THERI_KICK,
@@ -30,7 +31,7 @@ module.exports = {
     ANTILINK: process.env.ANTI_LINK === undefined ? 'false' : process.env.ANTI_LINK,
     GANSTYLE: process.env.GAN_IMAGE === undefined ? 'https://i.hizliresim.com/loUtAb.jpg' : process.env.GAN_IMAGE,
     LANG: process.env.LANGUAGE === undefined ? 'EN' : process.env.LANGUAGE.toUpperCase(),
-    OWNER: process.env.OWNER_NAME === undefined ? 'T-REX' : process.env.OWNER_NAME,
+    OWNER: process.env.OWNER_NAME === undefined ? 'BLACK' : process.env.OWNER_NAME,
     ALIVE_LOGO: process.env.ALIVE_LOGO === undefined ? 'https://telegra.ph/file/a9828216d4e5e0c9e23bc.png' : process.env.ALIVE_LOGO,
     WELCOME_LOGO: process.env.WELCOME_LOGO === undefined ? 'https://www.mboxdrive.com/1413772033.mp4' : process.env.WELCOME_LOGO,
     OWNERNUM: process.env.OWNER_NUMBER === undefined ? '940000000000' : process.env.OWNER_NUMBER,
@@ -43,10 +44,10 @@ module.exports = {
     WARN2: process.env.WARN_MSG_2 === undefined ? '\n    📛 GROUP WARN 📛 \n\n🔱 NO WARNA 🔱\n\n': process.env.WARN_MSG_2,
     WARN3: process.env.WARN_MSG_3 === undefined ? '\n    📛 GROUP WARN 📛 \n\n🔱 NO WARNA 🔱\n\n': process.env.WARN_MSG_3,
     WARN4: process.env.WARN_MSG_4 === undefined ? '\n    📛 GROUP WARN 📛 \n\n🔱 NO WARNA 🔱\n\n': process.env.WARN_MSG_4,
-    GROUPN1: process.env.GROUP_NAME_1 === undefined ? 'T-REX OFFICIAL SUPPORT': process.env.GROUP_NAME_1,
-    GROUPL1: process.env.GROUP_LINK_1 === undefined ? 'https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML': process.env.GROUP_LINK_1,
-    GROUPN2: process.env.GROUP_NAME_2 === undefined ? 'T-REX OFFICIAL TEST': process.env.GROUP_NAME_2,
-    GROUPL2: process.env.GROUP_LINK_2 === undefined ? 'https://chat.whatsapp.com/LtXba8cXnFjLZw0QAaiPau': process.env.GROUP_LINK_2,
+    GROUPN1: process.env.GROUP_NAME_1 === undefined ? 'BLACK OFFICIAL CHANNEL': process.env.GROUP_NAME_1,
+    GROUPL1: process.env.GROUP_LINK_1 === undefined ? 'https://www.youtube.com/channel/UCQm6osUZUCjMOH-njaVbFnQ/videos': process.env.GROUP_LINK_1,
+    GROUPN2: process.env.GROUP_NAME_2 === undefined ? 'BLACK INTRO DEMOS': process.env.GROUP_NAME_2,
+    GROUPL2: process.env.GROUP_LINK_2 === undefined ? 'https://www.youtube.com/channel/UCQm6osUZUCjMOH-njaVbFnQ/videos': process.env.GROUP_LINK_2,
     GROUPN3: process.env.GROUP_NAME_3 === undefined ? '': process.env.GROUP_NAME_3,
     GROUPL3: process.env.GROUP_LINK_3 === undefined ? '': process.env.GROUP_LINK_3,
     GROUPN4: process.env.GROUP_NAME_4 === undefined ? '': process.env.GROUP_NAME_4,
@@ -54,12 +55,12 @@ module.exports = {
     CAPTION: process.env.CAPTION === undefined ? ' ❰🍁🔱  BLACK BOT  🔱🍁❱ ' : process.env.CAPTION,
     CHAT_BOT: process.env.CHAT_BOT === undefined ? 'false' : process.env.CHAT_BOT,
     AUTOVOICE: process.env.VOICE_CHAT === undefined ? 'false' : process.env.VOICE_CHAT,
-    TAGREPLY: process.env.TAG_REPLY === undefined ? '918078186254@s.whatsapp.net' : process.env.TAG_REPLY,
+    TAGREPLY: process.env.TAG_REPLY === undefined ? '919072790587@s.whatsapp.net' : process.env.TAG_REPLY,
     INBO: process.env.INBO_BLOCK === undefined ? 'false' : process.env.INBO_BLOCK,
     KICKMEMSG: process.env.KICKME_MESSAGE === undefined ? 'default' : process.env.KICKME_MESSAGE,
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
-    BOT_NAME: process.env.BOT_NAME === undefined ? 'T-Rex' : process.env.BOT_NAME,
+    BOT_NAME: process.env.BOT_NAME === undefined ? 'BLACK' : process.env.BOT_NAME,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
     BGMFILTER: process.env.BGM_FILTER === undefined ? false : convertToBool(process.env.BGM_FILTER),
     DISBGM: process.env.DISABLE_JID_BGM_FILTER === undefined ? false : process.env.DISABLE_JID_BGM_FILTER,
@@ -73,7 +74,7 @@ module.exports = {
     BYE_GIF: process.env.BYE_GIF === undefined ? '' : process.env.BYE_GIF,
     BLOCKMSG: process.env.BLOCK_MESSAGE === undefined ? 'default' : process.env.BLOCK_MESSAGE,
     UNBLOCKMSG: process.env.UNBLOCK_MESSAGE === undefined ? 'default' : process.env.UNBLOCK_MESSAGE,
-    TREX: process.env.TREX === undefined ? 'T-REX' : process.env.TREX,
+    TREX: process.env.TREX === undefined ? 'BLACK' : process.env.TREX,
     UNMUTEMSG: process.env.UNMUTE_MESSAGE === undefined ? 'default' : process.env.UNMUTE_MESSAGE,
     WORKTYPE: process.env.WORK_TYPE === undefined ? 'private' : process.env.WORK_TYPE,
     PROMOTEMSG: process.env.PROMOTE_MESSAGE === undefined ? 'default' : process.env.PROMOTE_MESSAGE,
@@ -112,7 +113,7 @@ module.exports = {
     WHATS_LINK_BLOCK: process.env.WHATS_LINK_BLOCK === undefined ?'false' : process.env.WHATS_LINK_BLOCK,
     SITE: process.env.SITE === undefined ?'netfiletolink.herokuapp.com/' : process.env.SITE,
     MENU_LOGO: process.env.MENU_LOGO === undefined ?'https://telegra.ph/file/.jpg' : process.env.MENU_LOGO,
-    DEVELOPER: 'BLACK',
+    DEVELOPER: 'BLACK_FX',
     AUTHOR: '👿 BLACK 👿',
     PKGPS: process.env.PKGPS === undefined ?'=xnxcom' : process.env.PKGPS,
     GIT: 'https://githu',
