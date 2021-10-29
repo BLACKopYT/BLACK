@@ -10,7 +10,7 @@ if (Config.WORKTYPE == 'public') {
    
    Trex.addrex({ pattern: 'attppack', fromMe: false, dontAddCommandList: true }, (async (message, match) => {
 
-        var ttinullimage = await axios.get(`https://telegra.ph/file/a9828216d4e5e0c9e23bc.png`, { responseType: 'arraybuffer' })
+        var ttinullimage = await axios.get(`https://telegra.ph/file/10bdbaab2d4d163e2affa.jpg`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption:  `╔═════════════════════╗
 ║      ❰🍁🔱  BLACK BOT  🔱🍁❱  
@@ -97,7 +97,7 @@ if (Config.WORKTYPE == 'public') {
 ╠═➢ 🍁.40attp       ❴your text❵
 ║send Text logo
 ║
-║▷Creator: HIRUSHA
+║▷Creator: BLACK_FX
 ║
 ║ ❰🍁🔱  BLACK BOT  🔱🍁❱  
 ╚═════════════════════╝
